@@ -1,0 +1,5156 @@
+{
+    "nodes": [
+        {
+            "id": "http://purl.obolibrary.org/obo/IAO_0000115",
+            "label": "definition",
+            "type": "PROPERTY"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/IAO_0000700",
+            "label": "has ontology root term",
+            "type": "PROPERTY"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/IAO_0100001",
+            "label": "term replaced by",
+            "type": "PROPERTY"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000000",
+            "label": "cellulitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000001",
+            "label": "abdominal cramp",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000002",
+            "label": "abdominal distention",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000003",
+            "label": "obsolete acute enteritis in newborns",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000004",
+            "label": "obsolete arrested moulting",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000005",
+            "label": "ataxia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000006",
+            "label": "backache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000007",
+            "label": "bleeding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000008",
+            "label": "blindness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000009",
+            "label": "blister",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000010",
+            "label": "obsolete bloody diarrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000011",
+            "label": "obsolete bloody exudate",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000012",
+            "label": "blurred vision",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000013",
+            "label": "obsolete capillary leakage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000014",
+            "label": "obsolete cardiomyocyte destruction",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000015",
+            "label": "giddiness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000016",
+            "label": "confusion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000017",
+            "label": "crinkle",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000018",
+            "label": "darkening of skin",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000019",
+            "label": "deafness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000020",
+            "label": "dehydration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000021",
+            "label": "delirium",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000022",
+            "label": "depression",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000023",
+            "label": "disorientation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000024",
+            "label": "drowsiness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000025",
+            "label": "dry cough",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000026",
+            "label": "obsolete epidermal proliferation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000027",
+            "label": "obsolete excess mucus in bronchi",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000028",
+            "label": "obsolete exophthalmia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000029",
+            "label": "obsolete feather loss",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000030",
+            "label": "paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000031",
+            "label": "obsolete flaccid limb paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000032",
+            "label": "flaccidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000033",
+            "label": "flat keratotic capsule",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000034",
+            "label": "obsolete fluid in pericardial sac",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000035",
+            "label": "obsolete fragile bones",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000036",
+            "label": "hemorrhagic gastroenteritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000037",
+            "label": "obsolete catarrhal enteritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000038",
+            "label": "dyspneic enteritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000039",
+            "label": "enteritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000040",
+            "label": "hematuria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000041",
+            "label": "hemorrhage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000042",
+            "label": "obsolete hemorrhagic enteritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000043",
+            "label": "obsolete hemorrhagic meningitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000044",
+            "label": "obsolete hemorrhagic thoracic lymphadenitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000045",
+            "label": "hepatic necrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000046",
+            "label": "hepatitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000047",
+            "label": "hepatosplenomegaly",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000048",
+            "label": "obsolete high fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000049",
+            "label": "obsolete hind limb paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000050",
+            "label": "obsolete hunched posture",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000051",
+            "label": "hydrocephalus",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000052",
+            "label": "obsolete hyperemic liver",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000053",
+            "label": "obsolete hyperemic spleen",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000054",
+            "label": "hypergammaglobulinemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000055",
+            "label": "obsolete hyperkeratotic plaques of surface of foot",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000056",
+            "label": "hyperpigmentation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000057",
+            "label": "obsolete hyperplastic alveolar nodules",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000058",
+            "label": "hyperreflexia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000059",
+            "label": "hypotension",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000060",
+            "label": "obsolete ill-thrift",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000061",
+            "label": "inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000062",
+            "label": "obsolete inflammation of meninges",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000063",
+            "label": "intestinal hemorrhage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000064",
+            "label": "joint pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000065",
+            "label": "obsolete joint swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000066",
+            "label": "keratotic nodules of the skin",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000067",
+            "label": "obsolete lameness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000068",
+            "label": "laryngitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000069",
+            "label": "laryngotracheitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000070",
+            "label": "lesions in myocardium",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000071",
+            "label": "obsolete lesions in respiratory tract",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000072",
+            "label": "obsolete lesions in spleen",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000073",
+            "label": "obsolete lesions in thymus",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000074",
+            "label": "obsolete lesions in swim bladder",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000075",
+            "label": "lethargy",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000076",
+            "label": "listlessness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000077",
+            "label": "obsolete localized cutaneous lesions",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000078",
+            "label": "obsolete loose droppings",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000079",
+            "label": "coordination symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000080",
+            "label": "obsolete loss of coordination",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000081",
+            "label": "obsolete low grade fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000082",
+            "label": "lesions in lung",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000083",
+            "label": "lymphangitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000084",
+            "label": "lymphoblastoma",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000085",
+            "label": "obsolete lymphocytic hyperplasia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000086",
+            "label": "lymphopenia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000087",
+            "label": "massive hepatic necrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000088",
+            "label": "obsolete massive lymphadenopathy",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000089",
+            "label": "meningoencephalitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000090",
+            "label": "encephalitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000091",
+            "label": "mild encephalitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000092",
+            "label": "skin lesion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000093",
+            "label": "muscle cramp",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000094",
+            "label": "muscle weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000095",
+            "label": "myocarditis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000096",
+            "label": "obsolete nasal discharge",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000097",
+            "label": "obsolete neck swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000098",
+            "label": "nephritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000099",
+            "label": "pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000100",
+            "label": "lesions in pancreas",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000101",
+            "label": "obsolete partial paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000102",
+            "label": "peritonitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000103",
+            "label": "obsolete persistent lymphocytosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000104",
+            "label": "obsolete petechial hemorrhages",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000105",
+            "label": "obsolete photosensitivity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000106",
+            "label": "plasmacytosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000107",
+            "label": "pleural effusion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000108",
+            "label": "obsolete portal hepatitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000109",
+            "label": "mouth papules",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000110",
+            "label": "obsolete proliferative mouth papules",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000111",
+            "label": "obsolete proliferative skin lesions",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000112",
+            "label": "tracheitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000113",
+            "label": "obsolete proliferative tracheitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000114",
+            "label": "thrombocytopenia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000115",
+            "label": "obsolete prolonged thrombocytopenia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000116",
+            "label": "prostration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000117",
+            "label": "obsolete pustular skin lesions",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000118",
+            "label": "rales",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000119",
+            "label": "obsolete reddening",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000120",
+            "label": "obsolete retinal inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000121",
+            "label": "obsolete rhinitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000122",
+            "label": "obsolete salivary gland swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000123",
+            "label": "obsolete sclerodermoid plaques",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000124",
+            "label": "seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000125",
+            "label": "liver inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000126",
+            "label": "obsolete self-limiting liver inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000127",
+            "label": "severe backache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000128",
+            "label": "conjunctivitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000129",
+            "label": "severe conjunctivitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000130",
+            "label": "severe headache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000131",
+            "label": "severe joint pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000132",
+            "label": "necrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000133",
+            "label": "severe necrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000134",
+            "label": "sinusitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000135",
+            "label": "obsolete skin papules",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000136",
+            "label": "skin ulcer",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000137",
+            "label": "obsolete slight cough",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000138",
+            "label": "obsolete slight pyrexia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000139",
+            "label": "sneezing",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000140",
+            "label": "obsolete spastic paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000141",
+            "label": "spasticity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000142",
+            "label": "obsolete spleen hemorrhages",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000143",
+            "label": "obsolete spleen infiltrates",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000144",
+            "label": "obsolete bronchopneumonia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000145",
+            "label": "obsolete splitting of tissues",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000146",
+            "label": "feces and droppings symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000147",
+            "label": "steatorrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000148",
+            "label": "obsolete sudden onset of fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000149",
+            "label": "obsolete sudden onset of severe chills",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000150",
+            "label": "obsolete swollen cervical lymphnodes",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000151",
+            "label": "obsolete systemic infection",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000152",
+            "label": "obsolete systemic necrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000153",
+            "label": "vasculitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000154",
+            "label": "obsolete systemic vasculitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000155",
+            "label": "obsolete tarry droppings",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000156",
+            "label": "thirst",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000157",
+            "label": "thymus symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000158",
+            "label": "spleen symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000159",
+            "label": "obsolete thymus atrophy",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000160",
+            "label": "tracheobronchitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000161",
+            "label": "obsolete transient fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000162",
+            "label": "tremor",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000163",
+            "label": "obsolete ulcerative dermal vesicles",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000164",
+            "label": "incoordination",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000165",
+            "label": "obsolete upper respiratory distress",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000166",
+            "label": "obsolete vascular lesions",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000167",
+            "label": "obsolete vascular necrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000168",
+            "label": "obsolete vein swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000169",
+            "label": "obsolete vesicles on feet",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000170",
+            "label": "obsolete vesicles on hoof corona",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000171",
+            "label": "obsolete vesicles on mouth",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000172",
+            "label": "obsolete vesicles on teats",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000173",
+            "label": "obsolete vesicular lesions on lip border",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000174",
+            "label": "wasting",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000175",
+            "label": "obsolete watery diarrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000176",
+            "label": "obsolete watery ocular discharge",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000177",
+            "label": "weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000178",
+            "label": "weight loss",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000179",
+            "label": "obsolete wet droppings",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000180",
+            "label": "liver symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000181",
+            "label": "obsolete yellow liver",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000182",
+            "label": "bubo",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000183",
+            "label": "muscle symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000184",
+            "label": "change in skin color",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000185",
+            "label": "weariness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000186",
+            "label": "exhaustion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000187",
+            "label": "tiredness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000188",
+            "label": "abdominal discomfort",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000189",
+            "label": "postural reaction",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000190",
+            "label": "wheelbarrowing",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000191",
+            "label": "obsolete hemistanding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000192",
+            "label": "obsolete hemiwalking",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000193",
+            "label": "hopping",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000194",
+            "label": "conscious proprioception",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000195",
+            "label": "abnormal hemiwalking hemistanding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000196",
+            "label": "reproductive system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000197",
+            "label": "abortion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000198",
+            "label": "miscarriage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000199",
+            "label": "spontaneous abortion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000200",
+            "label": "acute arthritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000201",
+            "label": "acute meningoencephalitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000202",
+            "label": "acute painful vision loss",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000203",
+            "label": "obsolete acute respiratory distress",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000204",
+            "label": "obsolete acute suppurative lesions",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000205",
+            "label": "salivary gland symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000206",
+            "label": "acute suppurative parotiditis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000207",
+            "label": "afebrile",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000208",
+            "label": "anemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000209",
+            "label": "ischemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000210",
+            "label": "photophobia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000211",
+            "label": "asthenopia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000212",
+            "label": "eye strain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000213",
+            "label": "agraphia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000214",
+            "label": "anomia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000215",
+            "label": "inability to comprehend speech",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000216",
+            "label": "inability to speak",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000217",
+            "label": "inability to form words",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000218",
+            "label": "poor enunciation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000219",
+            "label": "receptive aphasia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000220",
+            "label": "areflexia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000221",
+            "label": "absence of knee jerk reflex",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000222",
+            "label": "limb weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000223",
+            "label": "arm weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000224",
+            "label": "leg weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000225",
+            "label": "asthenia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000226",
+            "label": "atrial fibrillation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000227",
+            "label": "blood vessel infection",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000228",
+            "label": "hemorrhagic diarrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000229",
+            "label": "bloody stool",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000230",
+            "label": "body ache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000231",
+            "label": "bradycardia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000232",
+            "label": "bronchiolitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000233",
+            "label": "inability to think clearly",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000234",
+            "label": "cloudy cornea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000235",
+            "label": "colic",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000236",
+            "label": "colicky pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000237",
+            "label": "congestion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000238",
+            "label": "continuous profuse salivation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000239",
+            "label": "cornea symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000240",
+            "label": "corneal opacity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000241",
+            "label": "corneal ulcers",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000242",
+            "label": "cough with bloody sputum",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000243",
+            "label": "cyclic fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000244",
+            "label": "alteration of appetite",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000245",
+            "label": "decreased appetite",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000246",
+            "label": "increased appetite",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000247",
+            "label": "proprioception symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000248",
+            "label": "decreased conscious proprioception",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000249",
+            "label": "reflex symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000250",
+            "label": "decreased flexor withdrawal reflex",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000251",
+            "label": "dermal abscess",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000252",
+            "label": "diffuse rash",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000253",
+            "label": "anisocoria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000254",
+            "label": "dilated pupil",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000255",
+            "label": "diminished gastro-intestinal motility",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000256",
+            "label": "diminished gag reflex",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000257",
+            "label": "absent gag reflex",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000258",
+            "label": "double vision",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000259",
+            "label": "dry hacking cough",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000260",
+            "label": "dry mouth",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000261",
+            "label": "dry mucous membrane",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000262",
+            "label": "endocarditis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000263",
+            "label": "epididymitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000264",
+            "label": "epididymorchitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000265",
+            "label": "obsolete absence seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000266",
+            "label": "focal seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000267",
+            "label": "generalized seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000268",
+            "label": "tonic-clonic seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000269",
+            "label": "epileptic seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000270",
+            "label": "simple partial seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000271",
+            "label": "complex partial seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000272",
+            "label": "myoclonic seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000273",
+            "label": "clonic seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000274",
+            "label": "tonic seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000275",
+            "label": "atonic seizure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000276",
+            "label": "obsolete excess pericardial fluid",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000277",
+            "label": "excess salivation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000278",
+            "label": "extensive ulcer",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000279",
+            "label": "extreme exhaustion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000280",
+            "label": "extreme fatigue",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000281",
+            "label": "eye discharge",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000282",
+            "label": "fixed dilated pupils",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000283",
+            "label": "facial paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000284",
+            "label": "fixed pupil",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000285",
+            "label": "flaccid paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000286",
+            "label": "obsolete floppy head",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000287",
+            "label": "arrhythmia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000288",
+            "label": "obsolete fluctuation of heart rate",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000289",
+            "label": "eczema",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000290",
+            "label": "belching",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000291",
+            "label": "gas pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000292",
+            "label": "heart failure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000293",
+            "label": "hemiparesis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000294",
+            "label": "hemolysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000295",
+            "label": "hepatic abscess",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000296",
+            "label": "hepatic dysfunction",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000297",
+            "label": "hilar lymphadenitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000298",
+            "label": "hoarse voice",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000299",
+            "label": "hyperemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000300",
+            "label": "hyperesthesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000301",
+            "label": "hypopyon",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000302",
+            "label": "hypothermia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000303",
+            "label": "hypoxemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000304",
+            "label": "impaired coordination",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000305",
+            "label": "impaired gag reflex",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000306",
+            "label": "inability to feed",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000307",
+            "label": "inibility to stand",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000308",
+            "label": "inability to swallow",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000309",
+            "label": "loss of appetite",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000310",
+            "label": "inflamed eyes",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000311",
+            "label": "intestinal hypermotility",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000312",
+            "label": "joint symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000313",
+            "label": "joint inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000314",
+            "label": "keratitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000315",
+            "label": "lateroventral deviation of the head",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000316",
+            "label": "leg cramp",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000317",
+            "label": "obsolete leukopenia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000318",
+            "label": "loss of balance",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000319",
+            "label": "loss of tendon reflex",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000320",
+            "label": "vision symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000321",
+            "label": "loss of vision",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000322",
+            "label": "low birth weight",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000323",
+            "label": "melena",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000324",
+            "label": "bronchitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000325",
+            "label": "mild bronchitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000326",
+            "label": "mild hypotension",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000327",
+            "label": "tetanic convulsion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000328",
+            "label": "mild tetanic convulsion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000329",
+            "label": "motor weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000330",
+            "label": "mouth sore",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000331",
+            "label": "muscle ache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000332",
+            "label": "muscle soreness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000333",
+            "label": "muscle tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000334",
+            "label": "muscle necrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000335",
+            "label": "neck weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000336",
+            "label": "neurological dysfunction",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000337",
+            "label": "night sweats",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000338",
+            "label": "nystagmus",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000339",
+            "label": "occasional diplopia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000340",
+            "label": "limb edema",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000341",
+            "label": "obsolete ophthalmoplegia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000342",
+            "label": "slurred speech",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000343",
+            "label": "painful lymph glands",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000344",
+            "label": "palpebral edema",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000345",
+            "label": "panting respiration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000346",
+            "label": "papule",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000347",
+            "label": "lip paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000348",
+            "label": "throat muscle paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000349",
+            "label": "paraplegia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000350",
+            "label": "parotid abscess",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000351",
+            "label": "obsolete partial paralysis of the limbs",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000352",
+            "label": "peripheral muscle weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000353",
+            "label": "phlegm",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000354",
+            "label": "pneumonitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000355",
+            "label": "poor feeding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000356",
+            "label": "phlebitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000357",
+            "label": "postphlebitic ulcer",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000358",
+            "label": "premature labor",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000359",
+            "label": "profound weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000360",
+            "label": "emaciation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000361",
+            "label": "progressive emaciation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000362",
+            "label": "progressive prostration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000363",
+            "label": "progressive weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000364",
+            "label": "prostate symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000365",
+            "label": "prostatic abscess",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000366",
+            "label": "prostatic infection",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000367",
+            "label": "proteinuria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000368",
+            "label": "proximal paralysis of arm and leg",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000369",
+            "label": "ptosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000370",
+            "label": "renal abscess",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000371",
+            "label": "respiratory paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000372",
+            "label": "rhinorrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000373",
+            "label": "salivation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000374",
+            "label": "scrotal abscess",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000375",
+            "label": "severe abdominal cramp",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000376",
+            "label": "severe diarrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000377",
+            "label": "obsolete mastitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000378",
+            "label": "obsolete severe mastitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000379",
+            "label": "severe myalgia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000380",
+            "label": "obsolete severe pneumonia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000381",
+            "label": "spleen abscess",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000382",
+            "label": "staggering gait",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000383",
+            "label": "stiff neck",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000384",
+            "label": "neck symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000385",
+            "label": "throat symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000386",
+            "label": "mouth symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000387",
+            "label": "head symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000388",
+            "label": "nose symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000389",
+            "label": "stupor",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000390",
+            "label": "thyroid symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000391",
+            "label": "thyroid abscesses",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000392",
+            "label": "ear symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000393",
+            "label": "tinnitus",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000394",
+            "label": "muscle twitching",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000395",
+            "label": "facial muscle twitching",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000396",
+            "label": "mydriasis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000397",
+            "label": "unreactive mydriasis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000398",
+            "label": "vaginal discharge",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000399",
+            "label": "vertigo",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000400",
+            "label": "weak cry",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000401",
+            "label": "wobble",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000402",
+            "label": "cachexia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000403",
+            "label": "weight gain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000404",
+            "label": "dyspareunia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000405",
+            "label": "vaginismus",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000406",
+            "label": "bruise",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000407",
+            "label": "syncope",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000408",
+            "label": "cataplexy",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000409",
+            "label": "hyperthermia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000410",
+            "label": "neurological and physiological symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000411",
+            "label": "infant symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000412",
+            "label": "anxiety",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000413",
+            "label": "catatonia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000414",
+            "label": "dysarthria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000415",
+            "label": "amaurosis fugax",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000416",
+            "label": "amaurosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000417",
+            "label": "pupil symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000418",
+            "label": "contracted pupil",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000419",
+            "label": "miosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000420",
+            "label": "bloating",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000421",
+            "label": "hematochezia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000422",
+            "label": "dyspepsia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000423",
+            "label": "pyrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000424",
+            "label": "claudication",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000425",
+            "label": "reticulocytosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000426",
+            "label": "macrocytosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000427",
+            "label": "obsolete impotence",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000428",
+            "label": "hypoventilation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000429",
+            "label": "bradypnea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000430",
+            "label": "pleuritic chest pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000431",
+            "label": "sputum",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000432",
+            "label": "itching",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000433",
+            "label": "anasarca",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000434",
+            "label": "urticaria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000435",
+            "label": "paresthesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000436",
+            "label": "abnormal vaginal bleeding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000437",
+            "label": "earache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000438",
+            "label": "toothache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000439",
+            "label": "obsolete heartburn",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000440",
+            "label": "hair loss",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000441",
+            "label": "elbow pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000442",
+            "label": "knee pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000443",
+            "label": "shoulder pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000444",
+            "label": "nail discoloration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000445",
+            "label": "obsolete faint",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000446",
+            "label": "bloodshot eye",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000447",
+            "label": "bloody sputum",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000448",
+            "label": "epistaxis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000449",
+            "label": "cardiogenic shock",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000450",
+            "label": "shock",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000451",
+            "label": "septic shock",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000452",
+            "label": "abnormal sputum",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000453",
+            "label": "right upper quadrant abdominal rigidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000454",
+            "label": "abdominal rigidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000455",
+            "label": "abnormal weight gain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000456",
+            "label": "left upper quadrant abdominal pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000457",
+            "label": "abdominal pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000458",
+            "label": "nausea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000459",
+            "label": "digestive system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000460",
+            "label": "hepatomegaly",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000461",
+            "label": "abdominal symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000462",
+            "label": "symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000463",
+            "label": "lack of normal physiological development",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000464",
+            "label": "lack of expected normal physiological development in childhood",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000465",
+            "label": "failure to thrive",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000466",
+            "label": "delayed milestones",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000467",
+            "label": "right lower quadrant abdominal rigidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000468",
+            "label": "generalized abdominal rigidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000469",
+            "label": "epigastric abdominal rigidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000470",
+            "label": "left upper quadrant abdominal rigidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000471",
+            "label": "multiple sites abdominal rigidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000472",
+            "label": "early satiety",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000473",
+            "label": "nutrition, metabolism, and development symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000474",
+            "label": "obsolete abnormal loss of weight and underweight",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000475",
+            "label": "underweight",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000476",
+            "label": "obsolete loss of weight",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000477",
+            "label": "epigastric abdominal swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000478",
+            "label": "abdominal swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000479",
+            "label": "abnormality of gait",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000480",
+            "label": "nervous system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000481",
+            "label": "persistent vegetative state",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000482",
+            "label": "alteration of consciousness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000483",
+            "label": "left lower quadrant abdominal tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000484",
+            "label": "abdominal tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000485",
+            "label": "dysuria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000486",
+            "label": "urinary system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000487",
+            "label": "rash",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000488",
+            "label": "skin and integumentary tissue symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000489",
+            "label": "abnormal bowel sound",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000490",
+            "label": "multiple sites abdominal tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000491",
+            "label": "continuous leakage of urine",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000492",
+            "label": "urinary incontinence",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000493",
+            "label": "dysphagia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000494",
+            "label": "renal colic",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000495",
+            "label": "urethral discharge",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000496",
+            "label": "epigastric abdominal tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000497",
+            "label": "periumbilic abdominal tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000498",
+            "label": "generalized abdominal tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000499",
+            "label": "right upper quadrant abdominal tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000500",
+            "label": "right lower quadrant abdominal tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000501",
+            "label": "left lower quadrant abdominal swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000502",
+            "label": "mixed incontinence (female) (male)",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000503",
+            "label": "adult failure to thrive",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000504",
+            "label": "headache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000505",
+            "label": "throat pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000506",
+            "label": "hemorrhage from throat",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000507",
+            "label": "head swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000508",
+            "label": "aphasia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000509",
+            "label": "flatulence",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000510",
+            "label": "pallor",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000511",
+            "label": "flushing",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000512",
+            "label": "male stress incontinence",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000513",
+            "label": "stridor",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000514",
+            "label": "respiratory system and chest symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000515",
+            "label": "hiccough",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000516",
+            "label": "lump in chest",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000517",
+            "label": "hemoptysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000518",
+            "label": "generalized abdominal pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000519",
+            "label": "abnormal feces",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000520",
+            "label": "visible peristalsis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000521",
+            "label": "enlargement of lymph nodes",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000522",
+            "label": "feeding difficulties and mismanagement",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000523",
+            "label": "anorexia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000524",
+            "label": "polyphagia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000525",
+            "label": "transient alteration of awareness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000526",
+            "label": "ascites",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000527",
+            "label": "undiagnosed cardiac murmur",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000528",
+            "label": "cardiovascular system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000529",
+            "label": "tachycardia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000530",
+            "label": "palpitation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000531",
+            "label": "splenomegaly",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000532",
+            "label": "urge incontinence",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000533",
+            "label": "post-void dribbling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000534",
+            "label": "spontaneous ecchymoses",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000535",
+            "label": "change in skin texture",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000536",
+            "label": "disturbance of skin sensation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000537",
+            "label": "cyanosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000538",
+            "label": "edema",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000539",
+            "label": "jaundice",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000540",
+            "label": "painful respiration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000541",
+            "label": "periumbilic abdominal swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000542",
+            "label": "epigastric abdominal pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000543",
+            "label": "memory loss",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000544",
+            "label": "transient paralysis of limb",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000545",
+            "label": "multiple sites abdominal swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000546",
+            "label": "right lower quadrant abdominal pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000547",
+            "label": "right upper quadrant abdominal pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000548",
+            "label": "right lower quadrant abdominal swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000549",
+            "label": "generalized abdominal swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000550",
+            "label": "clubbing of fingers",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000551",
+            "label": "disturbances of sensation of smell and taste",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000552",
+            "label": "meningismus",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000553",
+            "label": "neurologic neglect syndrome",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000554",
+            "label": "left lower quadrant abdominal rigidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000555",
+            "label": "left upper quadrant abdominal swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000556",
+            "label": "localized superficial lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000557",
+            "label": "urinary retention",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000558",
+            "label": "incomplete bladder emptying",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000559",
+            "label": "voice disturbance",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000560",
+            "label": "polydipsia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000561",
+            "label": "multiple sites abdominal pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000562",
+            "label": "right upper quadrant abdominal swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000563",
+            "label": "urinary frequency",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000564",
+            "label": "nocturia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000565",
+            "label": "polyuria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000566",
+            "label": "sleep disturbance",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000567",
+            "label": "general symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000568",
+            "label": "short stature",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000569",
+            "label": "oliguria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000570",
+            "label": "diarrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000571",
+            "label": "insomnia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000572",
+            "label": "splitting of urinary stream",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000573",
+            "label": "urinary stream symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000574",
+            "label": "aphonia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000575",
+            "label": "precordial pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000576",
+            "label": "chest pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000577",
+            "label": "fussy infant",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000578",
+            "label": "incontinence without sensory awareness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000579",
+            "label": "insomnia with sleep apnea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000580",
+            "label": "dysfunctions associated with sleep stages",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000581",
+            "label": "sleep apnea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000582",
+            "label": "hypersomnia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000583",
+            "label": "hypersomnia with sleep apnea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000584",
+            "label": "disruptions of 24-hour sleep-wake cycle",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000585",
+            "label": "sleep related movement disorder",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000586",
+            "label": "overflow incontinence",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000587",
+            "label": "abnormal chest sound",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000588",
+            "label": "extravasation of urine",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000589",
+            "label": "slowing of urinary stream",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000590",
+            "label": "urinary urgency",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000591",
+            "label": "left upper quadrant abdominal tenderness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000592",
+            "label": "excessive crying of infant",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000593",
+            "label": "gangrene",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000594",
+            "label": "abnormal involuntary movement",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000595",
+            "label": "febrile convulsion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000596",
+            "label": "convulsion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000597",
+            "label": "head and neck symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000598",
+            "label": "respiratory abnormality",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000599",
+            "label": "cheyne-stokes respiration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000600",
+            "label": "apnea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000601",
+            "label": "hyperventilation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000602",
+            "label": "orthopnea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000603",
+            "label": "tachypnea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000604",
+            "label": "wheezing",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000605",
+            "label": "coma",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000606",
+            "label": "nocturnal enuresis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000607",
+            "label": "hallucination",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000608",
+            "label": "syncope and collapse",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000609",
+            "label": "generalized hyperhidrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000610",
+            "label": "dizziness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000611",
+            "label": "periumbilic abdominal pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000612",
+            "label": "periumbilic abdominal rigidity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000613",
+            "label": "fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000614",
+            "label": "cough",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000615",
+            "label": "obsolete lack of coordination",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000616",
+            "label": "loss of height",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000617",
+            "label": "torticollis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000618",
+            "label": "abnormal posture",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000619",
+            "label": "tetany",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000620",
+            "label": "left lower quadrant abdominal pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000621",
+            "label": "alexia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000622",
+            "label": "acute mesenteric lymphadenitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000623",
+            "label": "acute renal failure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000624",
+            "label": "obsolete appendicitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000625",
+            "label": "conscious disturbance",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000626",
+            "label": "obsolete myalgia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000627",
+            "label": "disturbed vision",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000628",
+            "label": "vision distortion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000629",
+            "label": "exanthema",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000630",
+            "label": "frontal headache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000631",
+            "label": "hemolytic anemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000632",
+            "label": "hip pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000633",
+            "label": "inflammatory low back pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000634",
+            "label": "leukocytosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000635",
+            "label": "low backache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000636",
+            "label": "maculopapular rash",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000637",
+            "label": "opisthotonus",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000638",
+            "label": "papular rash",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000639",
+            "label": "rectorrhagia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000640",
+            "label": "ankle rash",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000641",
+            "label": "renal involvement",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000642",
+            "label": "obsolete respiratory distress",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000643",
+            "label": "respiratory failure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000644",
+            "label": "ruffled feather",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000645",
+            "label": "obsolete ankle swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000646",
+            "label": "synovitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000647",
+            "label": "tache noire",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000648",
+            "label": "tenesmus",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000649",
+            "label": "terminal ileitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000650",
+            "label": "thick white exudate on tongue",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000651",
+            "label": "discharge",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000652",
+            "label": "wound discharge",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000653",
+            "label": "yellow dropping",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000654",
+            "label": "irritability",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000655",
+            "label": "mouth bleeding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000656",
+            "label": "pale mucous membrane",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000657",
+            "label": "ischemic necrosis of jejunum",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000658",
+            "label": "extraocular muscles paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000659",
+            "label": "pareses",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000660",
+            "label": "purpuric rash",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000661",
+            "label": "recumbency",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000662",
+            "label": "shakes",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000663",
+            "label": "uncoordinated gait",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000664",
+            "label": "yellow exudate from nose",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000665",
+            "label": "yellow exudate from eyes",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000666",
+            "label": "abnormal behavior",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000667",
+            "label": "obsolete heart rhythm symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000668",
+            "label": "obsolete abnormal heart rhythms",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000669",
+            "label": "abnormal hemistanding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000670",
+            "label": "abnormal hemiwalking",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000671",
+            "label": "sudden onset of fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000672",
+            "label": "abscess",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000673",
+            "label": "bradykinesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000674",
+            "label": "acute cranial nerve dysfunction",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000675",
+            "label": "acute diarrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000676",
+            "label": "acute enteritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000677",
+            "label": "acute gastroenteritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000678",
+            "label": "acute mental dysfunction",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000679",
+            "label": "acute dyspnea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000680",
+            "label": "acute weight loss",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000681",
+            "label": "aggressive behavior",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000682",
+            "label": "altered mental status",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000683",
+            "label": "obsolete tachypnoea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000684",
+            "label": "bifrontal headache",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000685",
+            "label": "brain cyst",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000686",
+            "label": "chronic cough",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000687",
+            "label": "obsolete chronic fatigue syndrome",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000688",
+            "label": "circling movement",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000689",
+            "label": "cramp",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000690",
+            "label": "cranial nerve palsies",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000691",
+            "label": "cytopenia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000692",
+            "label": "low blood pressure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000693",
+            "label": "decreased facial sensation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000694",
+            "label": "decreased jaw tone",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000695",
+            "label": "decreased milk production",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000696",
+            "label": "decreased motor response",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000697",
+            "label": "decreased pharyngeal tone",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000698",
+            "label": "decreased sucking",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000699",
+            "label": "deltoid muscle weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000700",
+            "label": "diminished spontaneous movement",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000701",
+            "label": "nasal discharge",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000702",
+            "label": "distended loops of intestines on rectal",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000703",
+            "label": "droopy ears",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000704",
+            "label": "dysphonia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000705",
+            "label": "expressive aphasia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000706",
+            "label": "facial weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000707",
+            "label": "flaccid muscle tone",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000708",
+            "label": "obsolete gas production",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000709",
+            "label": "granulomatous inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000710",
+            "label": "head pressing",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000711",
+            "label": "hind limb paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000712",
+            "label": "infertility",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000713",
+            "label": "inability to lie flat",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000714",
+            "label": "intraretinal hemorrhage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000715",
+            "label": "skin desquamation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000716",
+            "label": "swelling symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000717",
+            "label": "leg swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000718",
+            "label": "loss of consciousness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000719",
+            "label": "memory impairment",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000720",
+            "label": "microangiopathic hemolytic anemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000721",
+            "label": "moderate anemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000722",
+            "label": "moderate conjuctival injection",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000723",
+            "label": "multiple abscesses",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000724",
+            "label": "multiple organ failure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000725",
+            "label": "necrosis of jejunum",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000726",
+            "label": "painful reginal lymphadenopathy",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000727",
+            "label": "palate weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000728",
+            "label": "partial hind limb paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000729",
+            "label": "pulmonary consolidation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000730",
+            "label": "rapid respiration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000731",
+            "label": "renal failure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000732",
+            "label": "sudden ataxis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000733",
+            "label": "sternocleidomastoid weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000734",
+            "label": "obsolete stroke",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000735",
+            "label": "obsolete suppurative pneumonia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000736",
+            "label": "lymph gland swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000737",
+            "label": "respiratory tract mucosa ulcer",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000738",
+            "label": "yellowish green diarrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000739",
+            "label": "bronchopulmonary bleeding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000740",
+            "label": "genitourinary hemorrhage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000741",
+            "label": "nasal bleeding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000742",
+            "label": "gum bleeding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000743",
+            "label": "blotchy red rash",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000744",
+            "label": "cervical lymphadenopathy",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000745",
+            "label": "change in body sensation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000746",
+            "label": "enanthem",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000747",
+            "label": "extreme prostration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000748",
+            "label": "facial edema",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000749",
+            "label": "hemodynamic instability",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000750",
+            "label": "hemorrhage into mucous membrane",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000751",
+            "label": "hemorrhage into skin",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000752",
+            "label": "herpetic lesion on upper lip",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000753",
+            "label": "intense anxiety",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000754",
+            "label": "severe chest pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000755",
+            "label": "intense toxemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000756",
+            "label": "menorrhagia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000757",
+            "label": "mild conjunctivitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000758",
+            "label": "neurological alteration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000759",
+            "label": "parotid pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000760",
+            "label": "petechiae",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000761",
+            "label": "extracellular fluid alteration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000762",
+            "label": "excess lymphocytes in cerebrospinal fluid",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000763",
+            "label": "renal alteration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000764",
+            "label": "retrobulbar pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000765",
+            "label": "sensory disturbance",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000766",
+            "label": "slow pulse",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000767",
+            "label": "subconjunctival bleeding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000768",
+            "label": "testicular pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000769",
+            "label": "vascular alteration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000770",
+            "label": "pelvic symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000771",
+            "label": "pelvic swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000772",
+            "label": "pelvic mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000773",
+            "label": "pelvic lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000774",
+            "label": "generalized pelvic lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000775",
+            "label": "right lower quadrant pelvic lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000776",
+            "label": "epigastric pelvic lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000777",
+            "label": "left lower quadrant pelvic lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000778",
+            "label": "left upper quadrant pelvic lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000779",
+            "label": "right upper quadrant pelvic lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000780",
+            "label": "multiple sites pelvic lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000781",
+            "label": "periumbilic pelvic lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000782",
+            "label": "right upper quadrant pelvic mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000783",
+            "label": "left lower quadrant pelvic mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000784",
+            "label": "epigastric pelvic mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000785",
+            "label": "left upper quadrant pelvic mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000786",
+            "label": "generalized pelvic mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000787",
+            "label": "periumbilic pelvic mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000788",
+            "label": "multiple sites pelvic mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000789",
+            "label": "right lower quadrant pelvic mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000790",
+            "label": "multiple sites pelvic swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000791",
+            "label": "generalized pelvic swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000792",
+            "label": "epigastric pelvic swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000793",
+            "label": "left lower quadrant pelvic swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000794",
+            "label": "left upper quadrant pelvic swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000795",
+            "label": "periumbilic pelvic swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000796",
+            "label": "right lower quadrant pelvic swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000797",
+            "label": "right upper quadrant pelvic swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000798",
+            "label": "abdominal mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000799",
+            "label": "abdominal lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000800",
+            "label": "left upper quadrant abdominal mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000801",
+            "label": "left lower quadrant abdominal mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000802",
+            "label": "epigastric abdominal mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000803",
+            "label": "multiple sites abdominal mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000804",
+            "label": "generalized abdominal mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000805",
+            "label": "periumbilic abdominal mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000806",
+            "label": "right lower quadrant abdominal mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000807",
+            "label": "right upper quadrant abdominal mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000808",
+            "label": "multiple sites abdominal lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000809",
+            "label": "periumbilic abdominal lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000810",
+            "label": "epigastric abdominal lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000811",
+            "label": "left upper quadrant abdominal lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000812",
+            "label": "right lower quadrant abdominal lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000813",
+            "label": "right upper quadrant abdominal lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000814",
+            "label": "generalized abdominal lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000815",
+            "label": "left lower quadrant abdominal lump",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000816",
+            "label": "dysfunctions associated with arousal from sleep",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000817",
+            "label": "inability to concentrate",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000818",
+            "label": "localized superficial mass",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000819",
+            "label": "localized superficial swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000820",
+            "label": "mass in chest",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000821",
+            "label": "swelling in chest",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000822",
+            "label": "chronic enteritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000823",
+            "label": "sinus bradycardia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000824",
+            "label": "junctional tachycardia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000825",
+            "label": "paroxysmal tachycardia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000826",
+            "label": "sinus tachycardia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000827",
+            "label": "ventricular tachycardia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000828",
+            "label": "sore eyes",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000829",
+            "label": "neck pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000830",
+            "label": "phantom pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000831",
+            "label": "nociceptive pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000832",
+            "label": "neuropathic pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000833",
+            "label": "visceral pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000834",
+            "label": "hypoesthesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000835",
+            "label": "hypoalgesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000836",
+            "label": "hyperalgesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000837",
+            "label": "chronic pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000838",
+            "label": "breakthrough pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000839",
+            "label": "acute pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000840",
+            "label": "allodynia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000841",
+            "label": "reactive hyperemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000842",
+            "label": "active hyperemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000843",
+            "label": "functional hyperemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000844",
+            "label": "face hyperemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000845",
+            "label": "hyperemia of the neck",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000846",
+            "label": "chest hyperemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000847",
+            "label": "spastic paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000848",
+            "label": "motor paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000849",
+            "label": "stillbirth",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000850",
+            "label": "congested sclera",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000851",
+            "label": "gross hematuria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000852",
+            "label": "anuria",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000853",
+            "label": "stress incontinence",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000854",
+            "label": "hypermenorrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000855",
+            "label": "metrorrhagia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000856",
+            "label": "subjective vertigo",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000857",
+            "label": "objective vertigo",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000858",
+            "label": "hypokinesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000859",
+            "label": "rigidity hypokinesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000860",
+            "label": "postural instability hypokinesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000861",
+            "label": "freezing hypokinesia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000862",
+            "label": "referred pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000863",
+            "label": "facial tremor",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000864",
+            "label": "lesions in oropharynx",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000865",
+            "label": "lesions in mouth",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000866",
+            "label": "cervical edema",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000867",
+            "label": "gastrointestinal bleeding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000868",
+            "label": "breathing problems",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000869",
+            "label": "nasal congestion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000870",
+            "label": "icteric eyes",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000871",
+            "label": "icteric mucous membrane",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000872",
+            "label": "icteric skin",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000873",
+            "label": "otitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000874",
+            "label": "hematoma",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000875",
+            "label": "lameness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000876",
+            "label": "pericardial effusion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000877",
+            "label": "decreased tongue tone",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000878",
+            "label": "transient fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000879",
+            "label": "low-grade fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000880",
+            "label": "prolonged fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000881",
+            "label": "mild fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000882",
+            "label": "high fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000883",
+            "label": "very high fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000884",
+            "label": "obsolete recurrent fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000885",
+            "label": "obsolete severe temperature increase",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000886",
+            "label": "hyperpyrexia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000887",
+            "label": "Pel-Epstein fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000888",
+            "label": "continuous fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000889",
+            "label": "remittent fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000890",
+            "label": "relapsing fever",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000891",
+            "label": "musculoskeletal system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000892",
+            "label": "sensation perception",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000893",
+            "label": "hypotensive",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000894",
+            "label": "cold clammy skin",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000895",
+            "label": "anaphylactic shock",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000896",
+            "label": "exophthalmos",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000897",
+            "label": "ventricular bradycardia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000898",
+            "label": "cardiac fibrillation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000899",
+            "label": "ventricular fibrillation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0000900",
+            "label": "allergic reaction",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0017795",
+            "label": "hemic and immune system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019138",
+            "label": "immune system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019139",
+            "label": "hemic system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019140",
+            "label": "hematopoietic system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019141",
+            "label": "lymphatic system symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019142",
+            "label": "lymphadenopathy",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019143",
+            "label": "coagulopathy",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019144",
+            "label": "microangiopathy",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019145",
+            "label": "vomiting",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019146",
+            "label": "hyponatremia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019147",
+            "label": "hematemesis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019148",
+            "label": "septicemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019149",
+            "label": "toxemia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019150",
+            "label": "obsolete pharyngitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019151",
+            "label": "pulmonary edema",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019152",
+            "label": "diaphoresis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019153",
+            "label": "dyspnea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019154",
+            "label": "hemorrhagic mediastinitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019155",
+            "label": "lymphadenitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019156",
+            "label": "hematogenous",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019158",
+            "label": "eschar",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019159",
+            "label": "gastroenteritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019160",
+            "label": "boil",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019161",
+            "label": "muscle pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019162",
+            "label": "muscle tightness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019163",
+            "label": "eye symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019164",
+            "label": "excessive tearing",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019165",
+            "label": "light sensitivity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019166",
+            "label": "obsolete ulcerations",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019167",
+            "label": "pustule",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019168",
+            "label": "obsolete pneumonia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019169",
+            "label": "arthritis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019170",
+            "label": "obsolete osteomyelitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019171",
+            "label": "spondylitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019172",
+            "label": "ocular lesion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019173",
+            "label": "meningitis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019174",
+            "label": "chills",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019175",
+            "label": "sweaty",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019176",
+            "label": "malaise",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019177",
+            "label": "fatigue",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019178",
+            "label": "necrotic lesion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019179",
+            "label": "lightheadedness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019180",
+            "label": "constipation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019181",
+            "label": "hoarseness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019182",
+            "label": "behavioral symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019183",
+            "label": "hyperactivity",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019184",
+            "label": "limited attention",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019185",
+            "label": "communication difficulty",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019186",
+            "label": "obsessive interests",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019187",
+            "label": "repetitive behavior",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019188",
+            "label": "intracranial hemorrhage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019189",
+            "label": "intracerebral hemorrhage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0019190",
+            "label": "subdural hemorrhage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020000",
+            "label": "airway stenosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020001",
+            "label": "apthous ulcer",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020002",
+            "label": "anal abscess",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020003",
+            "label": "acholic stool",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020004",
+            "label": "ageusia",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020005",
+            "label": "acquired color vision deficiency",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020006",
+            "label": "agitation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020007",
+            "label": "anterior scleral inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020008",
+            "label": "barking croup cough",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020009",
+            "label": "blind spot",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020010",
+            "label": "blurred vision with haloes",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020011",
+            "label": "bloody diarrhea",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020012",
+            "label": "weight symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020013",
+            "label": "abnormal weight loss",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020014",
+            "label": "chronic weight loss",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020015",
+            "label": "obsolete gain of weight",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020016",
+            "label": "acute weight gain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020017",
+            "label": "chronic weight gain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020018",
+            "label": "overweight",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020019",
+            "label": "postnasal drainage",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020020",
+            "label": "abnormal scar formation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020021",
+            "label": "abnormal wound healing",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020022",
+            "label": "bone conduction hyperacusis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020023",
+            "label": "bone pain",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020024",
+            "label": "bronchospasm",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020025",
+            "label": "caseation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020026",
+            "label": "chronic inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020027",
+            "label": "wet cough",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020028",
+            "label": "poor wound healing",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020029",
+            "label": "concentration difficulty",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020030",
+            "label": "patches of hair loss with a black dot pattern",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020031",
+            "label": "chest discomfort",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020032",
+            "label": "chest tightness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020033",
+            "label": "paroxysmal cough",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020034",
+            "label": "conjunctiva symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020035",
+            "label": "conjunctival congestion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020036",
+            "label": "conjunctival degeneration",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020037",
+            "label": "conjunctival suffusion",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020038",
+            "label": "conjunctival swelling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020039",
+            "label": "contracture",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020040",
+            "label": "hair symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020041",
+            "label": "corkscrew hair",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020042",
+            "label": "corneal scarring",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020043",
+            "label": "dark urine",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020044",
+            "label": "hair shedding",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020045",
+            "label": "balance symptom",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020046",
+            "label": "feeding problem",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020047",
+            "label": "descending muscle paralysis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020048",
+            "label": "skin peeling",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020049",
+            "label": "delayed psychomotor development",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020050",
+            "label": "decreased tearing",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020051",
+            "label": "decreased metabolism",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020052",
+            "label": "hand weakness",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020053",
+            "label": "mammary gland inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020054",
+            "label": "severe mammary gland inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020055",
+            "label": "pharynx inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020056",
+            "label": "cerebrovascular accident",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020057",
+            "label": "bronchiole inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020058",
+            "label": "severe bronchiole inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020059",
+            "label": "suppurative bronchiole inflammation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020060",
+            "label": "low white blood cell count",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020061",
+            "label": "outlet dysfunction constipation",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020062",
+            "label": "soft tissue necrosis",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020063",
+            "label": "blood pressure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/SYMP_0020064",
+            "label": "high blood pressure",
+            "type": "CLASS"
+        },
+        {
+            "id": "http://purl.obolibrary.org/obo/symp#part_of",
+            "label": "part_of",
+            "type": "PROPERTY"
+        },
+        {
+            "id": "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+            "label": "has_alternative_id",
+            "type": "PROPERTY"
+        },
+        {
+            "id": "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+            "label": "database_cross_reference",
+            "type": "PROPERTY"
+        },
+        {
+            "id": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+            "label": "has_exact_synonym",
+            "type": "PROPERTY"
+        },
+        {
+            "id": "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+            "label": "has_obo_format_version",
+            "type": "PROPERTY"
+        },
+        {
+            "id": "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+            "label": "has_obo_namespace",
+            "type": "PROPERTY"
+        },
+        {
+            "id": "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+            "label": "has_related_synonym",
+            "type": "PROPERTY"
+        }
+    ],
+    "links": [
+        {
+            "source": "http://purl.obolibrary.org/obo/IAO_0000700",
+            "target": "http://purl.obolibrary.org/obo/SYMP_0000462",
+            "value": 1
+        }
+    ]
+}
