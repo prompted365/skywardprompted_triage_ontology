@@ -1,0 +1,4127 @@
+{
+    "nodes": [
+        {
+            "id": "definition",
+            "group": 2
+        },
+        {
+            "id": "has ontology root term",
+            "group": 2
+        },
+        {
+            "id": "term replaced by",
+            "group": 2
+        },
+        {
+            "id": "cellulitis",
+            "group": 1
+        },
+        {
+            "id": "abdominal cramp",
+            "group": 1
+        },
+        {
+            "id": "abdominal distention",
+            "group": 1
+        },
+        {
+            "id": "obsolete acute enteritis in newborns",
+            "group": 1
+        },
+        {
+            "id": "obsolete arrested moulting",
+            "group": 1
+        },
+        {
+            "id": "ataxia",
+            "group": 1
+        },
+        {
+            "id": "backache",
+            "group": 1
+        },
+        {
+            "id": "bleeding",
+            "group": 1
+        },
+        {
+            "id": "blindness",
+            "group": 1
+        },
+        {
+            "id": "blister",
+            "group": 1
+        },
+        {
+            "id": "obsolete bloody diarrhea",
+            "group": 1
+        },
+        {
+            "id": "obsolete bloody exudate",
+            "group": 1
+        },
+        {
+            "id": "blurred vision",
+            "group": 1
+        },
+        {
+            "id": "obsolete capillary leakage",
+            "group": 1
+        },
+        {
+            "id": "obsolete cardiomyocyte destruction",
+            "group": 1
+        },
+        {
+            "id": "giddiness",
+            "group": 1
+        },
+        {
+            "id": "confusion",
+            "group": 1
+        },
+        {
+            "id": "crinkle",
+            "group": 1
+        },
+        {
+            "id": "darkening of skin",
+            "group": 1
+        },
+        {
+            "id": "deafness",
+            "group": 1
+        },
+        {
+            "id": "dehydration",
+            "group": 1
+        },
+        {
+            "id": "delirium",
+            "group": 1
+        },
+        {
+            "id": "depression",
+            "group": 1
+        },
+        {
+            "id": "disorientation",
+            "group": 1
+        },
+        {
+            "id": "drowsiness",
+            "group": 1
+        },
+        {
+            "id": "dry cough",
+            "group": 1
+        },
+        {
+            "id": "obsolete epidermal proliferation",
+            "group": 1
+        },
+        {
+            "id": "obsolete excess mucus in bronchi",
+            "group": 1
+        },
+        {
+            "id": "obsolete exophthalmia",
+            "group": 1
+        },
+        {
+            "id": "obsolete feather loss",
+            "group": 1
+        },
+        {
+            "id": "paralysis",
+            "group": 1
+        },
+        {
+            "id": "obsolete flaccid limb paralysis",
+            "group": 1
+        },
+        {
+            "id": "flaccidity",
+            "group": 1
+        },
+        {
+            "id": "flat keratotic capsule",
+            "group": 1
+        },
+        {
+            "id": "obsolete fluid in pericardial sac",
+            "group": 1
+        },
+        {
+            "id": "obsolete fragile bones",
+            "group": 1
+        },
+        {
+            "id": "hemorrhagic gastroenteritis",
+            "group": 1
+        },
+        {
+            "id": "obsolete catarrhal enteritis",
+            "group": 1
+        },
+        {
+            "id": "dyspneic enteritis",
+            "group": 1
+        },
+        {
+            "id": "enteritis",
+            "group": 1
+        },
+        {
+            "id": "hematuria",
+            "group": 1
+        },
+        {
+            "id": "hemorrhage",
+            "group": 1
+        },
+        {
+            "id": "obsolete hemorrhagic enteritis",
+            "group": 1
+        },
+        {
+            "id": "obsolete hemorrhagic meningitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete hemorrhagic thoracic lymphadenitis",
+            "group": 1
+        },
+        {
+            "id": "hepatic necrosis",
+            "group": 1
+        },
+        {
+            "id": "hepatitis",
+            "group": 1
+        },
+        {
+            "id": "hepatosplenomegaly",
+            "group": 1
+        },
+        {
+            "id": "obsolete high fever",
+            "group": 1
+        },
+        {
+            "id": "obsolete hind limb paralysis",
+            "group": 1
+        },
+        {
+            "id": "obsolete hunched posture",
+            "group": 1
+        },
+        {
+            "id": "hydrocephalus",
+            "group": 1
+        },
+        {
+            "id": "obsolete hyperemic liver",
+            "group": 1
+        },
+        {
+            "id": "obsolete hyperemic spleen",
+            "group": 1
+        },
+        {
+            "id": "hypergammaglobulinemia",
+            "group": 1
+        },
+        {
+            "id": "obsolete hyperkeratotic plaques of surface of foot",
+            "group": 1
+        },
+        {
+            "id": "hyperpigmentation",
+            "group": 1
+        },
+        {
+            "id": "obsolete hyperplastic alveolar nodules",
+            "group": 1
+        },
+        {
+            "id": "hyperreflexia",
+            "group": 1
+        },
+        {
+            "id": "hypotension",
+            "group": 1
+        },
+        {
+            "id": "obsolete ill-thrift",
+            "group": 1
+        },
+        {
+            "id": "inflammation",
+            "group": 1
+        },
+        {
+            "id": "obsolete inflammation of meninges",
+            "group": 1
+        },
+        {
+            "id": "intestinal hemorrhage",
+            "group": 1
+        },
+        {
+            "id": "joint pain",
+            "group": 1
+        },
+        {
+            "id": "obsolete joint swelling",
+            "group": 1
+        },
+        {
+            "id": "keratotic nodules of the skin",
+            "group": 1
+        },
+        {
+            "id": "obsolete lameness",
+            "group": 1
+        },
+        {
+            "id": "laryngitis",
+            "group": 1
+        },
+        {
+            "id": "laryngotracheitis",
+            "group": 1
+        },
+        {
+            "id": "lesions in myocardium",
+            "group": 1
+        },
+        {
+            "id": "obsolete lesions in respiratory tract",
+            "group": 1
+        },
+        {
+            "id": "obsolete lesions in spleen",
+            "group": 1
+        },
+        {
+            "id": "obsolete lesions in thymus",
+            "group": 1
+        },
+        {
+            "id": "obsolete lesions in swim bladder",
+            "group": 1
+        },
+        {
+            "id": "lethargy",
+            "group": 1
+        },
+        {
+            "id": "listlessness",
+            "group": 1
+        },
+        {
+            "id": "obsolete localized cutaneous lesions",
+            "group": 1
+        },
+        {
+            "id": "obsolete loose droppings",
+            "group": 1
+        },
+        {
+            "id": "coordination symptom",
+            "group": 1
+        },
+        {
+            "id": "obsolete loss of coordination",
+            "group": 1
+        },
+        {
+            "id": "obsolete low grade fever",
+            "group": 1
+        },
+        {
+            "id": "lesions in lung",
+            "group": 1
+        },
+        {
+            "id": "lymphangitis",
+            "group": 1
+        },
+        {
+            "id": "lymphoblastoma",
+            "group": 1
+        },
+        {
+            "id": "obsolete lymphocytic hyperplasia",
+            "group": 1
+        },
+        {
+            "id": "lymphopenia",
+            "group": 1
+        },
+        {
+            "id": "massive hepatic necrosis",
+            "group": 1
+        },
+        {
+            "id": "obsolete massive lymphadenopathy",
+            "group": 1
+        },
+        {
+            "id": "meningoencephalitis",
+            "group": 1
+        },
+        {
+            "id": "encephalitis",
+            "group": 1
+        },
+        {
+            "id": "mild encephalitis",
+            "group": 1
+        },
+        {
+            "id": "skin lesion",
+            "group": 1
+        },
+        {
+            "id": "muscle cramp",
+            "group": 1
+        },
+        {
+            "id": "muscle weakness",
+            "group": 1
+        },
+        {
+            "id": "myocarditis",
+            "group": 1
+        },
+        {
+            "id": "obsolete nasal discharge",
+            "group": 1
+        },
+        {
+            "id": "obsolete neck swelling",
+            "group": 1
+        },
+        {
+            "id": "nephritis",
+            "group": 1
+        },
+        {
+            "id": "pain",
+            "group": 1
+        },
+        {
+            "id": "lesions in pancreas",
+            "group": 1
+        },
+        {
+            "id": "obsolete partial paralysis",
+            "group": 1
+        },
+        {
+            "id": "peritonitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete persistent lymphocytosis",
+            "group": 1
+        },
+        {
+            "id": "obsolete petechial hemorrhages",
+            "group": 1
+        },
+        {
+            "id": "obsolete photosensitivity",
+            "group": 1
+        },
+        {
+            "id": "plasmacytosis",
+            "group": 1
+        },
+        {
+            "id": "pleural effusion",
+            "group": 1
+        },
+        {
+            "id": "obsolete portal hepatitis",
+            "group": 1
+        },
+        {
+            "id": "mouth papules",
+            "group": 1
+        },
+        {
+            "id": "obsolete proliferative mouth papules",
+            "group": 1
+        },
+        {
+            "id": "obsolete proliferative skin lesions",
+            "group": 1
+        },
+        {
+            "id": "tracheitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete proliferative tracheitis",
+            "group": 1
+        },
+        {
+            "id": "thrombocytopenia",
+            "group": 1
+        },
+        {
+            "id": "obsolete prolonged thrombocytopenia",
+            "group": 1
+        },
+        {
+            "id": "prostration",
+            "group": 1
+        },
+        {
+            "id": "obsolete pustular skin lesions",
+            "group": 1
+        },
+        {
+            "id": "rales",
+            "group": 1
+        },
+        {
+            "id": "obsolete reddening",
+            "group": 1
+        },
+        {
+            "id": "obsolete retinal inflammation",
+            "group": 1
+        },
+        {
+            "id": "obsolete rhinitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete salivary gland swelling",
+            "group": 1
+        },
+        {
+            "id": "obsolete sclerodermoid plaques",
+            "group": 1
+        },
+        {
+            "id": "seizure",
+            "group": 1
+        },
+        {
+            "id": "liver inflammation",
+            "group": 1
+        },
+        {
+            "id": "obsolete self-limiting liver inflammation",
+            "group": 1
+        },
+        {
+            "id": "severe backache",
+            "group": 1
+        },
+        {
+            "id": "conjunctivitis",
+            "group": 1
+        },
+        {
+            "id": "severe conjunctivitis",
+            "group": 1
+        },
+        {
+            "id": "severe headache",
+            "group": 1
+        },
+        {
+            "id": "severe joint pain",
+            "group": 1
+        },
+        {
+            "id": "necrosis",
+            "group": 1
+        },
+        {
+            "id": "severe necrosis",
+            "group": 1
+        },
+        {
+            "id": "sinusitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete skin papules",
+            "group": 1
+        },
+        {
+            "id": "skin ulcer",
+            "group": 1
+        },
+        {
+            "id": "obsolete slight cough",
+            "group": 1
+        },
+        {
+            "id": "obsolete slight pyrexia",
+            "group": 1
+        },
+        {
+            "id": "sneezing",
+            "group": 1
+        },
+        {
+            "id": "obsolete spastic paralysis",
+            "group": 1
+        },
+        {
+            "id": "spasticity",
+            "group": 1
+        },
+        {
+            "id": "obsolete spleen hemorrhages",
+            "group": 1
+        },
+        {
+            "id": "obsolete spleen infiltrates",
+            "group": 1
+        },
+        {
+            "id": "obsolete bronchopneumonia",
+            "group": 1
+        },
+        {
+            "id": "obsolete splitting of tissues",
+            "group": 1
+        },
+        {
+            "id": "feces and droppings symptom",
+            "group": 1
+        },
+        {
+            "id": "steatorrhea",
+            "group": 1
+        },
+        {
+            "id": "obsolete sudden onset of fever",
+            "group": 1
+        },
+        {
+            "id": "obsolete sudden onset of severe chills",
+            "group": 1
+        },
+        {
+            "id": "obsolete swollen cervical lymphnodes",
+            "group": 1
+        },
+        {
+            "id": "obsolete systemic infection",
+            "group": 1
+        },
+        {
+            "id": "obsolete systemic necrosis",
+            "group": 1
+        },
+        {
+            "id": "vasculitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete systemic vasculitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete tarry droppings",
+            "group": 1
+        },
+        {
+            "id": "thirst",
+            "group": 1
+        },
+        {
+            "id": "thymus symptom",
+            "group": 1
+        },
+        {
+            "id": "spleen symptom",
+            "group": 1
+        },
+        {
+            "id": "obsolete thymus atrophy",
+            "group": 1
+        },
+        {
+            "id": "tracheobronchitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete transient fever",
+            "group": 1
+        },
+        {
+            "id": "tremor",
+            "group": 1
+        },
+        {
+            "id": "obsolete ulcerative dermal vesicles",
+            "group": 1
+        },
+        {
+            "id": "incoordination",
+            "group": 1
+        },
+        {
+            "id": "obsolete upper respiratory distress",
+            "group": 1
+        },
+        {
+            "id": "obsolete vascular lesions",
+            "group": 1
+        },
+        {
+            "id": "obsolete vascular necrosis",
+            "group": 1
+        },
+        {
+            "id": "obsolete vein swelling",
+            "group": 1
+        },
+        {
+            "id": "obsolete vesicles on feet",
+            "group": 1
+        },
+        {
+            "id": "obsolete vesicles on hoof corona",
+            "group": 1
+        },
+        {
+            "id": "obsolete vesicles on mouth",
+            "group": 1
+        },
+        {
+            "id": "obsolete vesicles on teats",
+            "group": 1
+        },
+        {
+            "id": "obsolete vesicular lesions on lip border",
+            "group": 1
+        },
+        {
+            "id": "wasting",
+            "group": 1
+        },
+        {
+            "id": "obsolete watery diarrhea",
+            "group": 1
+        },
+        {
+            "id": "obsolete watery ocular discharge",
+            "group": 1
+        },
+        {
+            "id": "weakness",
+            "group": 1
+        },
+        {
+            "id": "weight loss",
+            "group": 1
+        },
+        {
+            "id": "obsolete wet droppings",
+            "group": 1
+        },
+        {
+            "id": "liver symptom",
+            "group": 1
+        },
+        {
+            "id": "obsolete yellow liver",
+            "group": 1
+        },
+        {
+            "id": "bubo",
+            "group": 1
+        },
+        {
+            "id": "muscle symptom",
+            "group": 1
+        },
+        {
+            "id": "change in skin color",
+            "group": 1
+        },
+        {
+            "id": "weariness",
+            "group": 1
+        },
+        {
+            "id": "exhaustion",
+            "group": 1
+        },
+        {
+            "id": "tiredness",
+            "group": 1
+        },
+        {
+            "id": "abdominal discomfort",
+            "group": 1
+        },
+        {
+            "id": "postural reaction",
+            "group": 1
+        },
+        {
+            "id": "wheelbarrowing",
+            "group": 1
+        },
+        {
+            "id": "obsolete hemistanding",
+            "group": 1
+        },
+        {
+            "id": "obsolete hemiwalking",
+            "group": 1
+        },
+        {
+            "id": "hopping",
+            "group": 1
+        },
+        {
+            "id": "conscious proprioception",
+            "group": 1
+        },
+        {
+            "id": "abnormal hemiwalking hemistanding",
+            "group": 1
+        },
+        {
+            "id": "reproductive system symptom",
+            "group": 1
+        },
+        {
+            "id": "abortion",
+            "group": 1
+        },
+        {
+            "id": "miscarriage",
+            "group": 1
+        },
+        {
+            "id": "spontaneous abortion",
+            "group": 1
+        },
+        {
+            "id": "acute arthritis",
+            "group": 1
+        },
+        {
+            "id": "acute meningoencephalitis",
+            "group": 1
+        },
+        {
+            "id": "acute painful vision loss",
+            "group": 1
+        },
+        {
+            "id": "obsolete acute respiratory distress",
+            "group": 1
+        },
+        {
+            "id": "obsolete acute suppurative lesions",
+            "group": 1
+        },
+        {
+            "id": "salivary gland symptom",
+            "group": 1
+        },
+        {
+            "id": "acute suppurative parotiditis",
+            "group": 1
+        },
+        {
+            "id": "afebrile",
+            "group": 1
+        },
+        {
+            "id": "anemia",
+            "group": 1
+        },
+        {
+            "id": "ischemia",
+            "group": 1
+        },
+        {
+            "id": "photophobia",
+            "group": 1
+        },
+        {
+            "id": "asthenopia",
+            "group": 1
+        },
+        {
+            "id": "eye strain",
+            "group": 1
+        },
+        {
+            "id": "agraphia",
+            "group": 1
+        },
+        {
+            "id": "anomia",
+            "group": 1
+        },
+        {
+            "id": "inability to comprehend speech",
+            "group": 1
+        },
+        {
+            "id": "inability to speak",
+            "group": 1
+        },
+        {
+            "id": "inability to form words",
+            "group": 1
+        },
+        {
+            "id": "poor enunciation",
+            "group": 1
+        },
+        {
+            "id": "receptive aphasia",
+            "group": 1
+        },
+        {
+            "id": "areflexia",
+            "group": 1
+        },
+        {
+            "id": "absence of knee jerk reflex",
+            "group": 1
+        },
+        {
+            "id": "limb weakness",
+            "group": 1
+        },
+        {
+            "id": "arm weakness",
+            "group": 1
+        },
+        {
+            "id": "leg weakness",
+            "group": 1
+        },
+        {
+            "id": "asthenia",
+            "group": 1
+        },
+        {
+            "id": "atrial fibrillation",
+            "group": 1
+        },
+        {
+            "id": "blood vessel infection",
+            "group": 1
+        },
+        {
+            "id": "hemorrhagic diarrhea",
+            "group": 1
+        },
+        {
+            "id": "bloody stool",
+            "group": 1
+        },
+        {
+            "id": "body ache",
+            "group": 1
+        },
+        {
+            "id": "bradycardia",
+            "group": 1
+        },
+        {
+            "id": "bronchiolitis",
+            "group": 1
+        },
+        {
+            "id": "inability to think clearly",
+            "group": 1
+        },
+        {
+            "id": "cloudy cornea",
+            "group": 1
+        },
+        {
+            "id": "colic",
+            "group": 1
+        },
+        {
+            "id": "colicky pain",
+            "group": 1
+        },
+        {
+            "id": "congestion",
+            "group": 1
+        },
+        {
+            "id": "continuous profuse salivation",
+            "group": 1
+        },
+        {
+            "id": "cornea symptom",
+            "group": 1
+        },
+        {
+            "id": "corneal opacity",
+            "group": 1
+        },
+        {
+            "id": "corneal ulcers",
+            "group": 1
+        },
+        {
+            "id": "cough with bloody sputum",
+            "group": 1
+        },
+        {
+            "id": "cyclic fever",
+            "group": 1
+        },
+        {
+            "id": "alteration of appetite",
+            "group": 1
+        },
+        {
+            "id": "decreased appetite",
+            "group": 1
+        },
+        {
+            "id": "increased appetite",
+            "group": 1
+        },
+        {
+            "id": "proprioception symptom",
+            "group": 1
+        },
+        {
+            "id": "decreased conscious proprioception",
+            "group": 1
+        },
+        {
+            "id": "reflex symptom",
+            "group": 1
+        },
+        {
+            "id": "decreased flexor withdrawal reflex",
+            "group": 1
+        },
+        {
+            "id": "dermal abscess",
+            "group": 1
+        },
+        {
+            "id": "diffuse rash",
+            "group": 1
+        },
+        {
+            "id": "anisocoria",
+            "group": 1
+        },
+        {
+            "id": "dilated pupil",
+            "group": 1
+        },
+        {
+            "id": "diminished gastro-intestinal motility",
+            "group": 1
+        },
+        {
+            "id": "diminished gag reflex",
+            "group": 1
+        },
+        {
+            "id": "absent gag reflex",
+            "group": 1
+        },
+        {
+            "id": "double vision",
+            "group": 1
+        },
+        {
+            "id": "dry hacking cough",
+            "group": 1
+        },
+        {
+            "id": "dry mouth",
+            "group": 1
+        },
+        {
+            "id": "dry mucous membrane",
+            "group": 1
+        },
+        {
+            "id": "endocarditis",
+            "group": 1
+        },
+        {
+            "id": "epididymitis",
+            "group": 1
+        },
+        {
+            "id": "epididymorchitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete absence seizure",
+            "group": 1
+        },
+        {
+            "id": "focal seizure",
+            "group": 1
+        },
+        {
+            "id": "generalized seizure",
+            "group": 1
+        },
+        {
+            "id": "tonic-clonic seizure",
+            "group": 1
+        },
+        {
+            "id": "epileptic seizure",
+            "group": 1
+        },
+        {
+            "id": "simple partial seizure",
+            "group": 1
+        },
+        {
+            "id": "complex partial seizure",
+            "group": 1
+        },
+        {
+            "id": "myoclonic seizure",
+            "group": 1
+        },
+        {
+            "id": "clonic seizure",
+            "group": 1
+        },
+        {
+            "id": "tonic seizure",
+            "group": 1
+        },
+        {
+            "id": "atonic seizure",
+            "group": 1
+        },
+        {
+            "id": "obsolete excess pericardial fluid",
+            "group": 1
+        },
+        {
+            "id": "excess salivation",
+            "group": 1
+        },
+        {
+            "id": "extensive ulcer",
+            "group": 1
+        },
+        {
+            "id": "extreme exhaustion",
+            "group": 1
+        },
+        {
+            "id": "extreme fatigue",
+            "group": 1
+        },
+        {
+            "id": "eye discharge",
+            "group": 1
+        },
+        {
+            "id": "fixed dilated pupils",
+            "group": 1
+        },
+        {
+            "id": "facial paralysis",
+            "group": 1
+        },
+        {
+            "id": "fixed pupil",
+            "group": 1
+        },
+        {
+            "id": "flaccid paralysis",
+            "group": 1
+        },
+        {
+            "id": "obsolete floppy head",
+            "group": 1
+        },
+        {
+            "id": "arrhythmia",
+            "group": 1
+        },
+        {
+            "id": "obsolete fluctuation of heart rate",
+            "group": 1
+        },
+        {
+            "id": "eczema",
+            "group": 1
+        },
+        {
+            "id": "belching",
+            "group": 1
+        },
+        {
+            "id": "gas pain",
+            "group": 1
+        },
+        {
+            "id": "heart failure",
+            "group": 1
+        },
+        {
+            "id": "hemiparesis",
+            "group": 1
+        },
+        {
+            "id": "hemolysis",
+            "group": 1
+        },
+        {
+            "id": "hepatic abscess",
+            "group": 1
+        },
+        {
+            "id": "hepatic dysfunction",
+            "group": 1
+        },
+        {
+            "id": "hilar lymphadenitis",
+            "group": 1
+        },
+        {
+            "id": "hoarse voice",
+            "group": 1
+        },
+        {
+            "id": "hyperemia",
+            "group": 1
+        },
+        {
+            "id": "hyperesthesia",
+            "group": 1
+        },
+        {
+            "id": "hypopyon",
+            "group": 1
+        },
+        {
+            "id": "hypothermia",
+            "group": 1
+        },
+        {
+            "id": "hypoxemia",
+            "group": 1
+        },
+        {
+            "id": "impaired coordination",
+            "group": 1
+        },
+        {
+            "id": "impaired gag reflex",
+            "group": 1
+        },
+        {
+            "id": "inability to feed",
+            "group": 1
+        },
+        {
+            "id": "inibility to stand",
+            "group": 1
+        },
+        {
+            "id": "inability to swallow",
+            "group": 1
+        },
+        {
+            "id": "loss of appetite",
+            "group": 1
+        },
+        {
+            "id": "inflamed eyes",
+            "group": 1
+        },
+        {
+            "id": "intestinal hypermotility",
+            "group": 1
+        },
+        {
+            "id": "joint symptom",
+            "group": 1
+        },
+        {
+            "id": "joint inflammation",
+            "group": 1
+        },
+        {
+            "id": "keratitis",
+            "group": 1
+        },
+        {
+            "id": "lateroventral deviation of the head",
+            "group": 1
+        },
+        {
+            "id": "leg cramp",
+            "group": 1
+        },
+        {
+            "id": "obsolete leukopenia",
+            "group": 1
+        },
+        {
+            "id": "loss of balance",
+            "group": 1
+        },
+        {
+            "id": "loss of tendon reflex",
+            "group": 1
+        },
+        {
+            "id": "vision symptom",
+            "group": 1
+        },
+        {
+            "id": "loss of vision",
+            "group": 1
+        },
+        {
+            "id": "low birth weight",
+            "group": 1
+        },
+        {
+            "id": "melena",
+            "group": 1
+        },
+        {
+            "id": "bronchitis",
+            "group": 1
+        },
+        {
+            "id": "mild bronchitis",
+            "group": 1
+        },
+        {
+            "id": "mild hypotension",
+            "group": 1
+        },
+        {
+            "id": "tetanic convulsion",
+            "group": 1
+        },
+        {
+            "id": "mild tetanic convulsion",
+            "group": 1
+        },
+        {
+            "id": "motor weakness",
+            "group": 1
+        },
+        {
+            "id": "mouth sore",
+            "group": 1
+        },
+        {
+            "id": "muscle ache",
+            "group": 1
+        },
+        {
+            "id": "muscle soreness",
+            "group": 1
+        },
+        {
+            "id": "muscle tenderness",
+            "group": 1
+        },
+        {
+            "id": "muscle necrosis",
+            "group": 1
+        },
+        {
+            "id": "neck weakness",
+            "group": 1
+        },
+        {
+            "id": "neurological dysfunction",
+            "group": 1
+        },
+        {
+            "id": "night sweats",
+            "group": 1
+        },
+        {
+            "id": "nystagmus",
+            "group": 1
+        },
+        {
+            "id": "occasional diplopia",
+            "group": 1
+        },
+        {
+            "id": "limb edema",
+            "group": 1
+        },
+        {
+            "id": "obsolete ophthalmoplegia",
+            "group": 1
+        },
+        {
+            "id": "slurred speech",
+            "group": 1
+        },
+        {
+            "id": "painful lymph glands",
+            "group": 1
+        },
+        {
+            "id": "palpebral edema",
+            "group": 1
+        },
+        {
+            "id": "panting respiration",
+            "group": 1
+        },
+        {
+            "id": "papule",
+            "group": 1
+        },
+        {
+            "id": "lip paralysis",
+            "group": 1
+        },
+        {
+            "id": "throat muscle paralysis",
+            "group": 1
+        },
+        {
+            "id": "paraplegia",
+            "group": 1
+        },
+        {
+            "id": "parotid abscess",
+            "group": 1
+        },
+        {
+            "id": "obsolete partial paralysis of the limbs",
+            "group": 1
+        },
+        {
+            "id": "peripheral muscle weakness",
+            "group": 1
+        },
+        {
+            "id": "phlegm",
+            "group": 1
+        },
+        {
+            "id": "pneumonitis",
+            "group": 1
+        },
+        {
+            "id": "poor feeding",
+            "group": 1
+        },
+        {
+            "id": "phlebitis",
+            "group": 1
+        },
+        {
+            "id": "postphlebitic ulcer",
+            "group": 1
+        },
+        {
+            "id": "premature labor",
+            "group": 1
+        },
+        {
+            "id": "profound weakness",
+            "group": 1
+        },
+        {
+            "id": "emaciation",
+            "group": 1
+        },
+        {
+            "id": "progressive emaciation",
+            "group": 1
+        },
+        {
+            "id": "progressive prostration",
+            "group": 1
+        },
+        {
+            "id": "progressive weakness",
+            "group": 1
+        },
+        {
+            "id": "prostate symptom",
+            "group": 1
+        },
+        {
+            "id": "prostatic abscess",
+            "group": 1
+        },
+        {
+            "id": "prostatic infection",
+            "group": 1
+        },
+        {
+            "id": "proteinuria",
+            "group": 1
+        },
+        {
+            "id": "proximal paralysis of arm and leg",
+            "group": 1
+        },
+        {
+            "id": "ptosis",
+            "group": 1
+        },
+        {
+            "id": "renal abscess",
+            "group": 1
+        },
+        {
+            "id": "respiratory paralysis",
+            "group": 1
+        },
+        {
+            "id": "rhinorrhea",
+            "group": 1
+        },
+        {
+            "id": "salivation",
+            "group": 1
+        },
+        {
+            "id": "scrotal abscess",
+            "group": 1
+        },
+        {
+            "id": "severe abdominal cramp",
+            "group": 1
+        },
+        {
+            "id": "severe diarrhea",
+            "group": 1
+        },
+        {
+            "id": "obsolete mastitis",
+            "group": 1
+        },
+        {
+            "id": "obsolete severe mastitis",
+            "group": 1
+        },
+        {
+            "id": "severe myalgia",
+            "group": 1
+        },
+        {
+            "id": "obsolete severe pneumonia",
+            "group": 1
+        },
+        {
+            "id": "spleen abscess",
+            "group": 1
+        },
+        {
+            "id": "staggering gait",
+            "group": 1
+        },
+        {
+            "id": "stiff neck",
+            "group": 1
+        },
+        {
+            "id": "neck symptom",
+            "group": 1
+        },
+        {
+            "id": "throat symptom",
+            "group": 1
+        },
+        {
+            "id": "mouth symptom",
+            "group": 1
+        },
+        {
+            "id": "head symptom",
+            "group": 1
+        },
+        {
+            "id": "nose symptom",
+            "group": 1
+        },
+        {
+            "id": "stupor",
+            "group": 1
+        },
+        {
+            "id": "thyroid symptom",
+            "group": 1
+        },
+        {
+            "id": "thyroid abscesses",
+            "group": 1
+        },
+        {
+            "id": "ear symptom",
+            "group": 1
+        },
+        {
+            "id": "tinnitus",
+            "group": 1
+        },
+        {
+            "id": "muscle twitching",
+            "group": 1
+        },
+        {
+            "id": "facial muscle twitching",
+            "group": 1
+        },
+        {
+            "id": "mydriasis",
+            "group": 1
+        },
+        {
+            "id": "unreactive mydriasis",
+            "group": 1
+        },
+        {
+            "id": "vaginal discharge",
+            "group": 1
+        },
+        {
+            "id": "vertigo",
+            "group": 1
+        },
+        {
+            "id": "weak cry",
+            "group": 1
+        },
+        {
+            "id": "wobble",
+            "group": 1
+        },
+        {
+            "id": "cachexia",
+            "group": 1
+        },
+        {
+            "id": "weight gain",
+            "group": 1
+        },
+        {
+            "id": "dyspareunia",
+            "group": 1
+        },
+        {
+            "id": "vaginismus",
+            "group": 1
+        },
+        {
+            "id": "bruise",
+            "group": 1
+        },
+        {
+            "id": "syncope",
+            "group": 1
+        },
+        {
+            "id": "cataplexy",
+            "group": 1
+        },
+        {
+            "id": "hyperthermia",
+            "group": 1
+        },
+        {
+            "id": "neurological and physiological symptom",
+            "group": 1
+        },
+        {
+            "id": "infant symptom",
+            "group": 1
+        },
+        {
+            "id": "anxiety",
+            "group": 1
+        },
+        {
+            "id": "catatonia",
+            "group": 1
+        },
+        {
+            "id": "dysarthria",
+            "group": 1
+        },
+        {
+            "id": "amaurosis fugax",
+            "group": 1
+        },
+        {
+            "id": "amaurosis",
+            "group": 1
+        },
+        {
+            "id": "pupil symptom",
+            "group": 1
+        },
+        {
+            "id": "contracted pupil",
+            "group": 1
+        },
+        {
+            "id": "miosis",
+            "group": 1
+        },
+        {
+            "id": "bloating",
+            "group": 1
+        },
+        {
+            "id": "hematochezia",
+            "group": 1
+        },
+        {
+            "id": "dyspepsia",
+            "group": 1
+        },
+        {
+            "id": "pyrosis",
+            "group": 1
+        },
+        {
+            "id": "claudication",
+            "group": 1
+        },
+        {
+            "id": "reticulocytosis",
+            "group": 1
+        },
+        {
+            "id": "macrocytosis",
+            "group": 1
+        },
+        {
+            "id": "obsolete impotence",
+            "group": 1
+        },
+        {
+            "id": "hypoventilation",
+            "group": 1
+        },
+        {
+            "id": "bradypnea",
+            "group": 1
+        },
+        {
+            "id": "pleuritic chest pain",
+            "group": 1
+        },
+        {
+            "id": "sputum",
+            "group": 1
+        },
+        {
+            "id": "itching",
+            "group": 1
+        },
+        {
+            "id": "anasarca",
+            "group": 1
+        },
+        {
+            "id": "urticaria",
+            "group": 1
+        },
+        {
+            "id": "paresthesia",
+            "group": 1
+        },
+        {
+            "id": "abnormal vaginal bleeding",
+            "group": 1
+        },
+        {
+            "id": "earache",
+            "group": 1
+        },
+        {
+            "id": "toothache",
+            "group": 1
+        },
+        {
+            "id": "obsolete heartburn",
+            "group": 1
+        },
+        {
+            "id": "hair loss",
+            "group": 1
+        },
+        {
+            "id": "elbow pain",
+            "group": 1
+        },
+        {
+            "id": "knee pain",
+            "group": 1
+        },
+        {
+            "id": "shoulder pain",
+            "group": 1
+        },
+        {
+            "id": "nail discoloration",
+            "group": 1
+        },
+        {
+            "id": "obsolete faint",
+            "group": 1
+        },
+        {
+            "id": "bloodshot eye",
+            "group": 1
+        },
+        {
+            "id": "bloody sputum",
+            "group": 1
+        },
+        {
+            "id": "epistaxis",
+            "group": 1
+        },
+        {
+            "id": "cardiogenic shock",
+            "group": 1
+        },
+        {
+            "id": "shock",
+            "group": 1
+        },
+        {
+            "id": "septic shock",
+            "group": 1
+        },
+        {
+            "id": "abnormal sputum",
+            "group": 1
+        },
+        {
+            "id": "right upper quadrant abdominal rigidity",
+            "group": 1
+        },
+        {
+            "id": "abdominal rigidity",
+            "group": 1
+        },
+        {
+            "id": "abnormal weight gain",
+            "group": 1
+        },
+        {
+            "id": "left upper quadrant abdominal pain",
+            "group": 1
+        },
+        {
+            "id": "abdominal pain",
+            "group": 1
+        },
+        {
+            "id": "nausea",
+            "group": 1
+        },
+        {
+            "id": "digestive system symptom",
+            "group": 1
+        },
+        {
+            "id": "hepatomegaly",
+            "group": 1
+        },
+        {
+            "id": "abdominal symptom",
+            "group": 1
+        },
+        {
+            "id": "symptom",
+            "group": 1
+        },
+        {
+            "id": "lack of normal physiological development",
+            "group": 1
+        },
+        {
+            "id": "lack of expected normal physiological development in childhood",
+            "group": 1
+        },
+        {
+            "id": "failure to thrive",
+            "group": 1
+        },
+        {
+            "id": "delayed milestones",
+            "group": 1
+        },
+        {
+            "id": "right lower quadrant abdominal rigidity",
+            "group": 1
+        },
+        {
+            "id": "generalized abdominal rigidity",
+            "group": 1
+        },
+        {
+            "id": "epigastric abdominal rigidity",
+            "group": 1
+        },
+        {
+            "id": "left upper quadrant abdominal rigidity",
+            "group": 1
+        },
+        {
+            "id": "multiple sites abdominal rigidity",
+            "group": 1
+        },
+        {
+            "id": "early satiety",
+            "group": 1
+        },
+        {
+            "id": "nutrition, metabolism, and development symptom",
+            "group": 1
+        },
+        {
+            "id": "obsolete abnormal loss of weight and underweight",
+            "group": 1
+        },
+        {
+            "id": "underweight",
+            "group": 1
+        },
+        {
+            "id": "obsolete loss of weight",
+            "group": 1
+        },
+        {
+            "id": "epigastric abdominal swelling",
+            "group": 1
+        },
+        {
+            "id": "abdominal swelling",
+            "group": 1
+        },
+        {
+            "id": "abnormality of gait",
+            "group": 1
+        },
+        {
+            "id": "nervous system symptom",
+            "group": 1
+        },
+        {
+            "id": "persistent vegetative state",
+            "group": 1
+        },
+        {
+            "id": "alteration of consciousness",
+            "group": 1
+        },
+        {
+            "id": "left lower quadrant abdominal tenderness",
+            "group": 1
+        },
+        {
+            "id": "abdominal tenderness",
+            "group": 1
+        },
+        {
+            "id": "dysuria",
+            "group": 1
+        },
+        {
+            "id": "urinary system symptom",
+            "group": 1
+        },
+        {
+            "id": "rash",
+            "group": 1
+        },
+        {
+            "id": "skin and integumentary tissue symptom",
+            "group": 1
+        },
+        {
+            "id": "abnormal bowel sound",
+            "group": 1
+        },
+        {
+            "id": "multiple sites abdominal tenderness",
+            "group": 1
+        },
+        {
+            "id": "continuous leakage of urine",
+            "group": 1
+        },
+        {
+            "id": "urinary incontinence",
+            "group": 1
+        },
+        {
+            "id": "dysphagia",
+            "group": 1
+        },
+        {
+            "id": "renal colic",
+            "group": 1
+        },
+        {
+            "id": "urethral discharge",
+            "group": 1
+        },
+        {
+            "id": "epigastric abdominal tenderness",
+            "group": 1
+        },
+        {
+            "id": "periumbilic abdominal tenderness",
+            "group": 1
+        },
+        {
+            "id": "generalized abdominal tenderness",
+            "group": 1
+        },
+        {
+            "id": "right upper quadrant abdominal tenderness",
+            "group": 1
+        },
+        {
+            "id": "right lower quadrant abdominal tenderness",
+            "group": 1
+        },
+        {
+            "id": "left lower quadrant abdominal swelling",
+            "group": 1
+        },
+        {
+            "id": "mixed incontinence (female) (male)",
+            "group": 1
+        },
+        {
+            "id": "adult failure to thrive",
+            "group": 1
+        },
+        {
+            "id": "headache",
+            "group": 1
+        },
+        {
+            "id": "throat pain",
+            "group": 1
+        },
+        {
+            "id": "hemorrhage from throat",
+            "group": 1
+        },
+        {
+            "id": "head swelling",
+            "group": 1
+        },
+        {
+            "id": "aphasia",
+            "group": 1
+        },
+        {
+            "id": "flatulence",
+            "group": 1
+        },
+        {
+            "id": "pallor",
+            "group": 1
+        },
+        {
+            "id": "flushing",
+            "group": 1
+        },
+        {
+            "id": "male stress incontinence",
+            "group": 1
+        },
+        {
+            "id": "stridor",
+            "group": 1
+        },
+        {
+            "id": "respiratory system and chest symptom",
+            "group": 1
+        },
+        {
+            "id": "hiccough",
+            "group": 1
+        },
+        {
+            "id": "lump in chest",
+            "group": 1
+        },
+        {
+            "id": "hemoptysis",
+            "group": 1
+        },
+        {
+            "id": "generalized abdominal pain",
+            "group": 1
+        },
+        {
+            "id": "abnormal feces",
+            "group": 1
+        },
+        {
+            "id": "visible peristalsis",
+            "group": 1
+        },
+        {
+            "id": "enlargement of lymph nodes",
+            "group": 1
+        },
+        {
+            "id": "feeding difficulties and mismanagement",
+            "group": 1
+        },
+        {
+            "id": "anorexia",
+            "group": 1
+        },
+        {
+            "id": "polyphagia",
+            "group": 1
+        },
+        {
+            "id": "transient alteration of awareness",
+            "group": 1
+        },
+        {
+            "id": "ascites",
+            "group": 1
+        },
+        {
+            "id": "undiagnosed cardiac murmur",
+            "group": 1
+        },
+        {
+            "id": "cardiovascular system symptom",
+            "group": 1
+        },
+        {
+            "id": "tachycardia",
+            "group": 1
+        },
+        {
+            "id": "palpitation",
+            "group": 1
+        },
+        {
+            "id": "splenomegaly",
+            "group": 1
+        },
+        {
+            "id": "urge incontinence",
+            "group": 1
+        },
+        {
+            "id": "post-void dribbling",
+            "group": 1
+        },
+        {
+            "id": "spontaneous ecchymoses",
+            "group": 1
+        },
+        {
+            "id": "change in skin texture",
+            "group": 1
+        },
+        {
+            "id": "disturbance of skin sensation",
+            "group": 1
+        },
+        {
+            "id": "cyanosis",
+            "group": 1
+        },
+        {
+            "id": "edema",
+            "group": 1
+        },
+        {
+            "id": "jaundice",
+            "group": 1
+        },
+        {
+            "id": "painful respiration",
+            "group": 1
+        },
+        {
+            "id": "periumbilic abdominal swelling",
+            "group": 1
+        },
+        {
+            "id": "epigastric abdominal pain",
+            "group": 1
+        },
+        {
+            "id": "memory loss",
+            "group": 1
+        },
+        {
+            "id": "transient paralysis of limb",
+            "group": 1
+        },
+        {
+            "id": "multiple sites abdominal swelling",
+            "group": 1
+        },
+        {
+            "id": "right lower quadrant abdominal pain",
+            "group": 1
+        },
+        {
+            "id": "right upper quadrant abdominal pain",
+            "group": 1
+        },
+        {
+            "id": "right lower quadrant abdominal swelling",
+            "group": 1
+        },
+        {
+            "id": "generalized abdominal swelling",
+            "group": 1
+        },
+        {
+            "id": "clubbing of fingers",
+            "group": 1
+        },
+        {
+            "id": "disturbances of sensation of smell and taste",
+            "group": 1
+        },
+        {
+            "id": "meningismus",
+            "group": 1
+        },
+        {
+            "id": "neurologic neglect syndrome",
+            "group": 1
+        },
+        {
+            "id": "left lower quadrant abdominal rigidity",
+            "group": 1
+        },
+        {
+            "id": "left upper quadrant abdominal swelling",
+            "group": 1
+        },
+        {
+            "id": "localized superficial lump",
+            "group": 1
+        },
+        {
+            "id": "urinary retention",
+            "group": 1
+        },
+        {
+            "id": "incomplete bladder emptying",
+            "group": 1
+        },
+        {
+            "id": "voice disturbance",
+            "group": 1
+        },
+        {
+            "id": "polydipsia",
+            "group": 1
+        },
+        {
+            "id": "multiple sites abdominal pain",
+            "group": 1
+        },
+        {
+            "id": "right upper quadrant abdominal swelling",
+            "group": 1
+        },
+        {
+            "id": "urinary frequency",
+            "group": 1
+        },
+        {
+            "id": "nocturia",
+            "group": 1
+        },
+        {
+            "id": "polyuria",
+            "group": 1
+        },
+        {
+            "id": "sleep disturbance",
+            "group": 1
+        },
+        {
+            "id": "general symptom",
+            "group": 1
+        },
+        {
+            "id": "short stature",
+            "group": 1
+        },
+        {
+            "id": "oliguria",
+            "group": 1
+        },
+        {
+            "id": "diarrhea",
+            "group": 1
+        },
+        {
+            "id": "insomnia",
+            "group": 1
+        },
+        {
+            "id": "splitting of urinary stream",
+            "group": 1
+        },
+        {
+            "id": "urinary stream symptom",
+            "group": 1
+        },
+        {
+            "id": "aphonia",
+            "group": 1
+        },
+        {
+            "id": "precordial pain",
+            "group": 1
+        },
+        {
+            "id": "chest pain",
+            "group": 1
+        },
+        {
+            "id": "fussy infant",
+            "group": 1
+        },
+        {
+            "id": "incontinence without sensory awareness",
+            "group": 1
+        },
+        {
+            "id": "insomnia with sleep apnea",
+            "group": 1
+        },
+        {
+            "id": "dysfunctions associated with sleep stages",
+            "group": 1
+        },
+        {
+            "id": "sleep apnea",
+            "group": 1
+        },
+        {
+            "id": "hypersomnia",
+            "group": 1
+        },
+        {
+            "id": "hypersomnia with sleep apnea",
+            "group": 1
+        },
+        {
+            "id": "disruptions of 24-hour sleep-wake cycle",
+            "group": 1
+        },
+        {
+            "id": "sleep related movement disorder",
+            "group": 1
+        },
+        {
+            "id": "overflow incontinence",
+            "group": 1
+        },
+        {
+            "id": "abnormal chest sound",
+            "group": 1
+        },
+        {
+            "id": "extravasation of urine",
+            "group": 1
+        },
+        {
+            "id": "slowing of urinary stream",
+            "group": 1
+        },
+        {
+            "id": "urinary urgency",
+            "group": 1
+        },
+        {
+            "id": "left upper quadrant abdominal tenderness",
+            "group": 1
+        },
+        {
+            "id": "excessive crying of infant",
+            "group": 1
+        },
+        {
+            "id": "gangrene",
+            "group": 1
+        },
+        {
+            "id": "abnormal involuntary movement",
+            "group": 1
+        },
+        {
+            "id": "febrile convulsion",
+            "group": 1
+        },
+        {
+            "id": "convulsion",
+            "group": 1
+        },
+        {
+            "id": "head and neck symptom",
+            "group": 1
+        },
+        {
+            "id": "respiratory abnormality",
+            "group": 1
+        },
+        {
+            "id": "cheyne-stokes respiration",
+            "group": 1
+        },
+        {
+            "id": "apnea",
+            "group": 1
+        },
+        {
+            "id": "hyperventilation",
+            "group": 1
+        },
+        {
+            "id": "orthopnea",
+            "group": 1
+        },
+        {
+            "id": "tachypnea",
+            "group": 1
+        },
+        {
+            "id": "wheezing",
+            "group": 1
+        },
+        {
+            "id": "coma",
+            "group": 1
+        },
+        {
+            "id": "nocturnal enuresis",
+            "group": 1
+        },
+        {
+            "id": "hallucination",
+            "group": 1
+        },
+        {
+            "id": "syncope and collapse",
+            "group": 1
+        },
+        {
+            "id": "generalized hyperhidrosis",
+            "group": 1
+        },
+        {
+            "id": "dizziness",
+            "group": 1
+        },
+        {
+            "id": "periumbilic abdominal pain",
+            "group": 1
+        },
+        {
+            "id": "periumbilic abdominal rigidity",
+            "group": 1
+        },
+        {
+            "id": "fever",
+            "group": 1
+        },
+        {
+            "id": "cough",
+            "group": 1
+        },
+        {
+            "id": "obsolete lack of coordination",
+            "group": 1
+        },
+        {
+            "id": "loss of height",
+            "group": 1
+        },
+        {
+            "id": "torticollis",
+            "group": 1
+        },
+        {
+            "id": "abnormal posture",
+            "group": 1
+        },
+        {
+            "id": "tetany",
+            "group": 1
+        },
+        {
+            "id": "left lower quadrant abdominal pain",
+            "group": 1
+        },
+        {
+            "id": "alexia",
+            "group": 1
+        },
+        {
+            "id": "acute mesenteric lymphadenitis",
+            "group": 1
+        },
+        {
+            "id": "acute renal failure",
+            "group": 1
+        },
+        {
+            "id": "obsolete appendicitis",
+            "group": 1
+        },
+        {
+            "id": "conscious disturbance",
+            "group": 1
+        },
+        {
+            "id": "obsolete myalgia",
+            "group": 1
+        },
+        {
+            "id": "disturbed vision",
+            "group": 1
+        },
+        {
+            "id": "vision distortion",
+            "group": 1
+        },
+        {
+            "id": "exanthema",
+            "group": 1
+        },
+        {
+            "id": "frontal headache",
+            "group": 1
+        },
+        {
+            "id": "hemolytic anemia",
+            "group": 1
+        },
+        {
+            "id": "hip pain",
+            "group": 1
+        },
+        {
+            "id": "inflammatory low back pain",
+            "group": 1
+        },
+        {
+            "id": "leukocytosis",
+            "group": 1
+        },
+        {
+            "id": "low backache",
+            "group": 1
+        },
+        {
+            "id": "maculopapular rash",
+            "group": 1
+        },
+        {
+            "id": "opisthotonus",
+            "group": 1
+        },
+        {
+            "id": "papular rash",
+            "group": 1
+        },
+        {
+            "id": "rectorrhagia",
+            "group": 1
+        },
+        {
+            "id": "ankle rash",
+            "group": 1
+        },
+        {
+            "id": "renal involvement",
+            "group": 1
+        },
+        {
+            "id": "obsolete respiratory distress",
+            "group": 1
+        },
+        {
+            "id": "respiratory failure",
+            "group": 1
+        },
+        {
+            "id": "ruffled feather",
+            "group": 1
+        },
+        {
+            "id": "obsolete ankle swelling",
+            "group": 1
+        },
+        {
+            "id": "synovitis",
+            "group": 1
+        },
+        {
+            "id": "tache noire",
+            "group": 1
+        },
+        {
+            "id": "tenesmus",
+            "group": 1
+        },
+        {
+            "id": "terminal ileitis",
+            "group": 1
+        },
+        {
+            "id": "thick white exudate on tongue",
+            "group": 1
+        },
+        {
+            "id": "discharge",
+            "group": 1
+        },
+        {
+            "id": "wound discharge",
+            "group": 1
+        },
+        {
+            "id": "yellow dropping",
+            "group": 1
+        },
+        {
+            "id": "irritability",
+            "group": 1
+        },
+        {
+            "id": "mouth bleeding",
+            "group": 1
+        },
+        {
+            "id": "pale mucous membrane",
+            "group": 1
+        },
+        {
+            "id": "ischemic necrosis of jejunum",
+            "group": 1
+        },
+        {
+            "id": "extraocular muscles paralysis",
+            "group": 1
+        },
+        {
+            "id": "pareses",
+            "group": 1
+        },
+        {
+            "id": "purpuric rash",
+            "group": 1
+        },
+        {
+            "id": "recumbency",
+            "group": 1
+        },
+        {
+            "id": "shakes",
+            "group": 1
+        },
+        {
+            "id": "uncoordinated gait",
+            "group": 1
+        },
+        {
+            "id": "yellow exudate from nose",
+            "group": 1
+        },
+        {
+            "id": "yellow exudate from eyes",
+            "group": 1
+        },
+        {
+            "id": "abnormal behavior",
+            "group": 1
+        },
+        {
+            "id": "obsolete heart rhythm symptom",
+            "group": 1
+        },
+        {
+            "id": "obsolete abnormal heart rhythms",
+            "group": 1
+        },
+        {
+            "id": "abnormal hemistanding",
+            "group": 1
+        },
+        {
+            "id": "abnormal hemiwalking",
+            "group": 1
+        },
+        {
+            "id": "sudden onset of fever",
+            "group": 1
+        },
+        {
+            "id": "abscess",
+            "group": 1
+        },
+        {
+            "id": "bradykinesia",
+            "group": 1
+        },
+        {
+            "id": "acute cranial nerve dysfunction",
+            "group": 1
+        },
+        {
+            "id": "acute diarrhea",
+            "group": 1
+        },
+        {
+            "id": "acute enteritis",
+            "group": 1
+        },
+        {
+            "id": "acute gastroenteritis",
+            "group": 1
+        },
+        {
+            "id": "acute mental dysfunction",
+            "group": 1
+        },
+        {
+            "id": "acute dyspnea",
+            "group": 1
+        },
+        {
+            "id": "acute weight loss",
+            "group": 1
+        },
+        {
+            "id": "aggressive behavior",
+            "group": 1
+        },
+        {
+            "id": "altered mental status",
+            "group": 1
+        },
+        {
+            "id": "obsolete tachypnoea",
+            "group": 1
+        },
+        {
+            "id": "bifrontal headache",
+            "group": 1
+        },
+        {
+            "id": "brain cyst",
+            "group": 1
+        },
+        {
+            "id": "chronic cough",
+            "group": 1
+        },
+        {
+            "id": "obsolete chronic fatigue syndrome",
+            "group": 1
+        },
+        {
+            "id": "circling movement",
+            "group": 1
+        },
+        {
+            "id": "cramp",
+            "group": 1
+        },
+        {
+            "id": "cranial nerve palsies",
+            "group": 1
+        },
+        {
+            "id": "cytopenia",
+            "group": 1
+        },
+        {
+            "id": "low blood pressure",
+            "group": 1
+        },
+        {
+            "id": "decreased facial sensation",
+            "group": 1
+        },
+        {
+            "id": "decreased jaw tone",
+            "group": 1
+        },
+        {
+            "id": "decreased milk production",
+            "group": 1
+        },
+        {
+            "id": "decreased motor response",
+            "group": 1
+        },
+        {
+            "id": "decreased pharyngeal tone",
+            "group": 1
+        },
+        {
+            "id": "decreased sucking",
+            "group": 1
+        },
+        {
+            "id": "deltoid muscle weakness",
+            "group": 1
+        },
+        {
+            "id": "diminished spontaneous movement",
+            "group": 1
+        },
+        {
+            "id": "nasal discharge",
+            "group": 1
+        },
+        {
+            "id": "distended loops of intestines on rectal",
+            "group": 1
+        },
+        {
+            "id": "droopy ears",
+            "group": 1
+        },
+        {
+            "id": "dysphonia",
+            "group": 1
+        },
+        {
+            "id": "expressive aphasia",
+            "group": 1
+        },
+        {
+            "id": "facial weakness",
+            "group": 1
+        },
+        {
+            "id": "flaccid muscle tone",
+            "group": 1
+        },
+        {
+            "id": "obsolete gas production",
+            "group": 1
+        },
+        {
+            "id": "granulomatous inflammation",
+            "group": 1
+        },
+        {
+            "id": "head pressing",
+            "group": 1
+        },
+        {
+            "id": "hind limb paralysis",
+            "group": 1
+        },
+        {
+            "id": "infertility",
+            "group": 1
+        },
+        {
+            "id": "inability to lie flat",
+            "group": 1
+        },
+        {
+            "id": "intraretinal hemorrhage",
+            "group": 1
+        },
+        {
+            "id": "skin desquamation",
+            "group": 1
+        },
+        {
+            "id": "swelling symptom",
+            "group": 1
+        },
+        {
+            "id": "leg swelling",
+            "group": 1
+        },
+        {
+            "id": "loss of consciousness",
+            "group": 1
+        },
+        {
+            "id": "memory impairment",
+            "group": 1
+        },
+        {
+            "id": "microangiopathic hemolytic anemia",
+            "group": 1
+        },
+        {
+            "id": "moderate anemia",
+            "group": 1
+        },
+        {
+            "id": "moderate conjuctival injection",
+            "group": 1
+        },
+        {
+            "id": "multiple abscesses",
+            "group": 1
+        },
+        {
+            "id": "multiple organ failure",
+            "group": 1
+        },
+        {
+            "id": "necrosis of jejunum",
+            "group": 1
+        },
+        {
+            "id": "painful reginal lymphadenopathy",
+            "group": 1
+        },
+        {
+            "id": "palate weakness",
+            "group": 1
+        },
+        {
+            "id": "partial hind limb paralysis",
+            "group": 1
+        },
+        {
+            "id": "pulmonary consolidation",
+            "group": 1
+        },
+        {
+            "id": "rapid respiration",
+            "group": 1
+        },
+        {
+            "id": "renal failure",
+            "group": 1
+        },
+        {
+            "id": "sudden ataxis",
+            "group": 1
+        },
+        {
+            "id": "sternocleidomastoid weakness",
+            "group": 1
+        },
+        {
+            "id": "obsolete stroke",
+            "group": 1
+        },
+        {
+            "id": "obsolete suppurative pneumonia",
+            "group": 1
+        },
+        {
+            "id": "lymph gland swelling",
+            "group": 1
+        },
+        {
+            "id": "respiratory tract mucosa ulcer",
+            "group": 1
+        },
+        {
+            "id": "yellowish green diarrhea",
+            "group": 1
+        },
+        {
+            "id": "bronchopulmonary bleeding",
+            "group": 1
+        },
+        {
+            "id": "genitourinary hemorrhage",
+            "group": 1
+        },
+        {
+            "id": "nasal bleeding",
+            "group": 1
+        },
+        {
+            "id": "gum bleeding",
+            "group": 1
+        },
+        {
+            "id": "blotchy red rash",
+            "group": 1
+        },
+        {
+            "id": "cervical lymphadenopathy",
+            "group": 1
+        },
+        {
+            "id": "change in body sensation",
+            "group": 1
+        },
+        {
+            "id": "enanthem",
+            "group": 1
+        },
+        {
+            "id": "extreme prostration",
+            "group": 1
+        },
+        {
+            "id": "facial edema",
+            "group": 1
+        },
+        {
+            "id": "hemodynamic instability",
+            "group": 1
+        },
+        {
+            "id": "hemorrhage into mucous membrane",
+            "group": 1
+        },
+        {
+            "id": "hemorrhage into skin",
+            "group": 1
+        },
+        {
+            "id": "herpetic lesion on upper lip",
+            "group": 1
+        },
+        {
+            "id": "intense anxiety",
+            "group": 1
+        },
+        {
+            "id": "severe chest pain",
+            "group": 1
+        },
+        {
+            "id": "intense toxemia",
+            "group": 1
+        },
+        {
+            "id": "menorrhagia",
+            "group": 1
+        },
+        {
+            "id": "mild conjunctivitis",
+            "group": 1
+        },
+        {
+            "id": "neurological alteration",
+            "group": 1
+        },
+        {
+            "id": "parotid pain",
+            "group": 1
+        },
+        {
+            "id": "petechiae",
+            "group": 1
+        },
+        {
+            "id": "extracellular fluid alteration",
+            "group": 1
+        },
+        {
+            "id": "excess lymphocytes in cerebrospinal fluid",
+            "group": 1
+        },
+        {
+            "id": "renal alteration",
+            "group": 1
+        },
+        {
+            "id": "retrobulbar pain",
+            "group": 1
+        },
+        {
+            "id": "sensory disturbance",
+            "group": 1
+        },
+        {
+            "id": "slow pulse",
+            "group": 1
+        },
+        {
+            "id": "subconjunctival bleeding",
+            "group": 1
+        },
+        {
+            "id": "testicular pain",
+            "group": 1
+        },
+        {
+            "id": "vascular alteration",
+            "group": 1
+        },
+        {
+            "id": "pelvic symptom",
+            "group": 1
+        },
+        {
+            "id": "pelvic swelling",
+            "group": 1
+        },
+        {
+            "id": "pelvic mass",
+            "group": 1
+        },
+        {
+            "id": "pelvic lump",
+            "group": 1
+        },
+        {
+            "id": "generalized pelvic lump",
+            "group": 1
+        },
+        {
+            "id": "right lower quadrant pelvic lump",
+            "group": 1
+        },
+        {
+            "id": "epigastric pelvic lump",
+            "group": 1
+        },
+        {
+            "id": "left lower quadrant pelvic lump",
+            "group": 1
+        },
+        {
+            "id": "left upper quadrant pelvic lump",
+            "group": 1
+        },
+        {
+            "id": "right upper quadrant pelvic lump",
+            "group": 1
+        },
+        {
+            "id": "multiple sites pelvic lump",
+            "group": 1
+        },
+        {
+            "id": "periumbilic pelvic lump",
+            "group": 1
+        },
+        {
+            "id": "right upper quadrant pelvic mass",
+            "group": 1
+        },
+        {
+            "id": "left lower quadrant pelvic mass",
+            "group": 1
+        },
+        {
+            "id": "epigastric pelvic mass",
+            "group": 1
+        },
+        {
+            "id": "left upper quadrant pelvic mass",
+            "group": 1
+        },
+        {
+            "id": "generalized pelvic mass",
+            "group": 1
+        },
+        {
+            "id": "periumbilic pelvic mass",
+            "group": 1
+        },
+        {
+            "id": "multiple sites pelvic mass",
+            "group": 1
+        },
+        {
+            "id": "right lower quadrant pelvic mass",
+            "group": 1
+        },
+        {
+            "id": "multiple sites pelvic swelling",
+            "group": 1
+        },
+        {
+            "id": "generalized pelvic swelling",
+            "group": 1
+        },
+        {
+            "id": "epigastric pelvic swelling",
+            "group": 1
+        },
+        {
+            "id": "left lower quadrant pelvic swelling",
+            "group": 1
+        },
+        {
+            "id": "left upper quadrant pelvic swelling",
+            "group": 1
+        },
+        {
+            "id": "periumbilic pelvic swelling",
+            "group": 1
+        },
+        {
+            "id": "right lower quadrant pelvic swelling",
+            "group": 1
+        },
+        {
+            "id": "right upper quadrant pelvic swelling",
+            "group": 1
+        },
+        {
+            "id": "abdominal mass",
+            "group": 1
+        },
+        {
+            "id": "abdominal lump",
+            "group": 1
+        },
+        {
+            "id": "left upper quadrant abdominal mass",
+            "group": 1
+        },
+        {
+            "id": "left lower quadrant abdominal mass",
+            "group": 1
+        },
+        {
+            "id": "epigastric abdominal mass",
+            "group": 1
+        },
+        {
+            "id": "multiple sites abdominal mass",
+            "group": 1
+        },
+        {
+            "id": "generalized abdominal mass",
+            "group": 1
+        },
+        {
+            "id": "periumbilic abdominal mass",
+            "group": 1
+        },
+        {
+            "id": "right lower quadrant abdominal mass",
+            "group": 1
+        },
+        {
+            "id": "right upper quadrant abdominal mass",
+            "group": 1
+        },
+        {
+            "id": "multiple sites abdominal lump",
+            "group": 1
+        },
+        {
+            "id": "periumbilic abdominal lump",
+            "group": 1
+        },
+        {
+            "id": "epigastric abdominal lump",
+            "group": 1
+        },
+        {
+            "id": "left upper quadrant abdominal lump",
+            "group": 1
+        },
+        {
+            "id": "right lower quadrant abdominal lump",
+            "group": 1
+        },
+        {
+            "id": "right upper quadrant abdominal lump",
+            "group": 1
+        },
+        {
+            "id": "generalized abdominal lump",
+            "group": 1
+        },
+        {
+            "id": "left lower quadrant abdominal lump",
+            "group": 1
+        },
+        {
+            "id": "dysfunctions associated with arousal from sleep",
+            "group": 1
+        },
+        {
+            "id": "inability to concentrate",
+            "group": 1
+        },
+        {
+            "id": "localized superficial mass",
+            "group": 1
+        },
+        {
+            "id": "localized superficial swelling",
+            "group": 1
+        },
+        {
+            "id": "mass in chest",
+            "group": 1
+        },
+        {
+            "id": "swelling in chest",
+            "group": 1
+        },
+        {
+            "id": "chronic enteritis",
+            "group": 1
+        },
+        {
+            "id": "sinus bradycardia",
+            "group": 1
+        },
+        {
+            "id": "junctional tachycardia",
+            "group": 1
+        },
+        {
+            "id": "paroxysmal tachycardia",
+            "group": 1
+        },
+        {
+            "id": "sinus tachycardia",
+            "group": 1
+        },
+        {
+            "id": "ventricular tachycardia",
+            "group": 1
+        },
+        {
+            "id": "sore eyes",
+            "group": 1
+        },
+        {
+            "id": "neck pain",
+            "group": 1
+        },
+        {
+            "id": "phantom pain",
+            "group": 1
+        },
+        {
+            "id": "nociceptive pain",
+            "group": 1
+        },
+        {
+            "id": "neuropathic pain",
+            "group": 1
+        },
+        {
+            "id": "visceral pain",
+            "group": 1
+        },
+        {
+            "id": "hypoesthesia",
+            "group": 1
+        },
+        {
+            "id": "hypoalgesia",
+            "group": 1
+        },
+        {
+            "id": "hyperalgesia",
+            "group": 1
+        },
+        {
+            "id": "chronic pain",
+            "group": 1
+        },
+        {
+            "id": "breakthrough pain",
+            "group": 1
+        },
+        {
+            "id": "acute pain",
+            "group": 1
+        },
+        {
+            "id": "allodynia",
+            "group": 1
+        },
+        {
+            "id": "reactive hyperemia",
+            "group": 1
+        },
+        {
+            "id": "active hyperemia",
+            "group": 1
+        },
+        {
+            "id": "functional hyperemia",
+            "group": 1
+        },
+        {
+            "id": "face hyperemia",
+            "group": 1
+        },
+        {
+            "id": "hyperemia of the neck",
+            "group": 1
+        },
+        {
+            "id": "chest hyperemia",
+            "group": 1
+        },
+        {
+            "id": "spastic paralysis",
+            "group": 1
+        },
+        {
+            "id": "motor paralysis",
+            "group": 1
+        },
+        {
+            "id": "stillbirth",
+            "group": 1
+        },
+        {
+            "id": "congested sclera",
+            "group": 1
+        },
+        {
+            "id": "gross hematuria",
+            "group": 1
+        },
+        {
+            "id": "anuria",
+            "group": 1
+        },
+        {
+            "id": "stress incontinence",
+            "group": 1
+        },
+        {
+            "id": "hypermenorrhea",
+            "group": 1
+        },
+        {
+            "id": "metrorrhagia",
+            "group": 1
+        },
+        {
+            "id": "subjective vertigo",
+            "group": 1
+        },
+        {
+            "id": "objective vertigo",
+            "group": 1
+        },
+        {
+            "id": "hypokinesia",
+            "group": 1
+        },
+        {
+            "id": "rigidity hypokinesia",
+            "group": 1
+        },
+        {
+            "id": "postural instability hypokinesia",
+            "group": 1
+        },
+        {
+            "id": "freezing hypokinesia",
+            "group": 1
+        },
+        {
+            "id": "referred pain",
+            "group": 1
+        },
+        {
+            "id": "facial tremor",
+            "group": 1
+        },
+        {
+            "id": "lesions in oropharynx",
+            "group": 1
+        },
+        {
+            "id": "lesions in mouth",
+            "group": 1
+        },
+        {
+            "id": "cervical edema",
+            "group": 1
+        },
+        {
+            "id": "gastrointestinal bleeding",
+            "group": 1
+        },
+        {
+            "id": "breathing problems",
+            "group": 1
+        },
+        {
+            "id": "nasal congestion",
+            "group": 1
+        },
+        {
+            "id": "icteric eyes",
+            "group": 1
+        },
+        {
+            "id": "icteric mucous membrane",
+            "group": 1
+        },
+        {
+            "id": "icteric skin",
+            "group": 1
+        },
+        {
+            "id": "otitis",
+            "group": 1
+        },
+        {
+            "id": "hematoma",
+            "group": 1
+        },
+        {
+            "id": "lameness",
+            "group": 1
+        },
+        {
+            "id": "pericardial effusion",
+            "group": 1
+        },
+        {
+            "id": "decreased tongue tone",
+            "group": 1
+        },
+        {
+            "id": "transient fever",
+            "group": 1
+        },
+        {
+            "id": "low-grade fever",
+            "group": 1
+        },
+        {
+            "id": "prolonged fever",
+            "group": 1
+        },
+        {
+            "id": "mild fever",
+            "group": 1
+        },
+        {
+            "id": "high fever",
+            "group": 1
+        },
+        {
+            "id": "very high fever",
+            "group": 1
+        },
+        {
+            "id": "obsolete recurrent fever",
+            "group": 1
+        },
+        {
+            "id": "obsolete severe temperature increase",
+            "group": 1
+        },
+        {
+            "id": "hyperpyrexia",
+            "group": 1
+        },
+        {
+            "id": "Pel-Epstein fever",
+            "group": 1
+        },
+        {
+            "id": "continuous fever",
+            "group": 1
+        },
+        {
+            "id": "remittent fever",
+            "group": 1
+        },
+        {
+            "id": "relapsing fever",
+            "group": 1
+        },
+        {
+            "id": "musculoskeletal system symptom",
+            "group": 1
+        },
+        {
+            "id": "sensation perception",
+            "group": 1
+        },
+        {
+            "id": "hypotensive",
+            "group": 1
+        },
+        {
+            "id": "cold clammy skin",
+            "group": 1
+        },
+        {
+            "id": "anaphylactic shock",
+            "group": 1
+        },
+        {
+            "id": "exophthalmos",
+            "group": 1
+        },
+        {
+            "id": "ventricular bradycardia",
+            "group": 1
+        },
+        {
+            "id": "cardiac fibrillation",
+            "group": 1
+        },
+        {
+            "id": "ventricular fibrillation",
+            "group": 1
+        },
+        {
+            "id": "allergic reaction",
+            "group": 1
+        },
+        {
+            "id": "hemic and immune system symptom",
+            "group": 1
+        },
+        {
+            "id": "immune system symptom",
+            "group": 1
+        },
+        {
+            "id": "hemic system symptom",
+            "group": 1
+        },
+        {
+            "id": "hematopoietic system symptom",
+            "group": 1
+        },
+        {
+            "id": "lymphatic system symptom",
+            "group": 1
+        },
+        {
+            "id": "lymphadenopathy",
+            "group": 1
+        },
+        {
+            "id": "coagulopathy",
+            "group": 1
+        },
+        {
+            "id": "microangiopathy",
+            "group": 1
+        },
+        {
+            "id": "vomiting",
+            "group": 1
+        },
+        {
+            "id": "hyponatremia",
+            "group": 1
+        },
+        {
+            "id": "hematemesis",
+            "group": 1
+        },
+        {
+            "id": "septicemia",
+            "group": 1
+        },
+        {
+            "id": "toxemia",
+            "group": 1
+        },
+        {
+            "id": "obsolete pharyngitis",
+            "group": 1
+        },
+        {
+            "id": "pulmonary edema",
+            "group": 1
+        },
+        {
+            "id": "diaphoresis",
+            "group": 1
+        },
+        {
+            "id": "dyspnea",
+            "group": 1
+        },
+        {
+            "id": "hemorrhagic mediastinitis",
+            "group": 1
+        },
+        {
+            "id": "lymphadenitis",
+            "group": 1
+        },
+        {
+            "id": "hematogenous",
+            "group": 1
+        },
+        {
+            "id": "eschar",
+            "group": 1
+        },
+        {
+            "id": "gastroenteritis",
+            "group": 1
+        },
+        {
+            "id": "boil",
+            "group": 1
+        },
+        {
+            "id": "muscle pain",
+            "group": 1
+        },
+        {
+            "id": "muscle tightness",
+            "group": 1
+        },
+        {
+            "id": "eye symptom",
+            "group": 1
+        },
+        {
+            "id": "excessive tearing",
+            "group": 1
+        },
+        {
+            "id": "light sensitivity",
+            "group": 1
+        },
+        {
+            "id": "obsolete ulcerations",
+            "group": 1
+        },
+        {
+            "id": "pustule",
+            "group": 1
+        },
+        {
+            "id": "obsolete pneumonia",
+            "group": 1
+        },
+        {
+            "id": "arthritis",
+            "group": 1
+        },
+        {
+            "id": "obsolete osteomyelitis",
+            "group": 1
+        },
+        {
+            "id": "spondylitis",
+            "group": 1
+        },
+        {
+            "id": "ocular lesion",
+            "group": 1
+        },
+        {
+            "id": "meningitis",
+            "group": 1
+        },
+        {
+            "id": "chills",
+            "group": 1
+        },
+        {
+            "id": "sweaty",
+            "group": 1
+        },
+        {
+            "id": "malaise",
+            "group": 1
+        },
+        {
+            "id": "fatigue",
+            "group": 1
+        },
+        {
+            "id": "necrotic lesion",
+            "group": 1
+        },
+        {
+            "id": "lightheadedness",
+            "group": 1
+        },
+        {
+            "id": "constipation",
+            "group": 1
+        },
+        {
+            "id": "hoarseness",
+            "group": 1
+        },
+        {
+            "id": "behavioral symptom",
+            "group": 1
+        },
+        {
+            "id": "hyperactivity",
+            "group": 1
+        },
+        {
+            "id": "limited attention",
+            "group": 1
+        },
+        {
+            "id": "communication difficulty",
+            "group": 1
+        },
+        {
+            "id": "obsessive interests",
+            "group": 1
+        },
+        {
+            "id": "repetitive behavior",
+            "group": 1
+        },
+        {
+            "id": "intracranial hemorrhage",
+            "group": 1
+        },
+        {
+            "id": "intracerebral hemorrhage",
+            "group": 1
+        },
+        {
+            "id": "subdural hemorrhage",
+            "group": 1
+        },
+        {
+            "id": "airway stenosis",
+            "group": 1
+        },
+        {
+            "id": "apthous ulcer",
+            "group": 1
+        },
+        {
+            "id": "anal abscess",
+            "group": 1
+        },
+        {
+            "id": "acholic stool",
+            "group": 1
+        },
+        {
+            "id": "ageusia",
+            "group": 1
+        },
+        {
+            "id": "acquired color vision deficiency",
+            "group": 1
+        },
+        {
+            "id": "agitation",
+            "group": 1
+        },
+        {
+            "id": "anterior scleral inflammation",
+            "group": 1
+        },
+        {
+            "id": "barking croup cough",
+            "group": 1
+        },
+        {
+            "id": "blind spot",
+            "group": 1
+        },
+        {
+            "id": "blurred vision with haloes",
+            "group": 1
+        },
+        {
+            "id": "bloody diarrhea",
+            "group": 1
+        },
+        {
+            "id": "weight symptom",
+            "group": 1
+        },
+        {
+            "id": "abnormal weight loss",
+            "group": 1
+        },
+        {
+            "id": "chronic weight loss",
+            "group": 1
+        },
+        {
+            "id": "obsolete gain of weight",
+            "group": 1
+        },
+        {
+            "id": "acute weight gain",
+            "group": 1
+        },
+        {
+            "id": "chronic weight gain",
+            "group": 1
+        },
+        {
+            "id": "overweight",
+            "group": 1
+        },
+        {
+            "id": "postnasal drainage",
+            "group": 1
+        },
+        {
+            "id": "abnormal scar formation",
+            "group": 1
+        },
+        {
+            "id": "abnormal wound healing",
+            "group": 1
+        },
+        {
+            "id": "bone conduction hyperacusis",
+            "group": 1
+        },
+        {
+            "id": "bone pain",
+            "group": 1
+        },
+        {
+            "id": "bronchospasm",
+            "group": 1
+        },
+        {
+            "id": "caseation",
+            "group": 1
+        },
+        {
+            "id": "chronic inflammation",
+            "group": 1
+        },
+        {
+            "id": "wet cough",
+            "group": 1
+        },
+        {
+            "id": "poor wound healing",
+            "group": 1
+        },
+        {
+            "id": "concentration difficulty",
+            "group": 1
+        },
+        {
+            "id": "patches of hair loss with a black dot pattern",
+            "group": 1
+        },
+        {
+            "id": "chest discomfort",
+            "group": 1
+        },
+        {
+            "id": "chest tightness",
+            "group": 1
+        },
+        {
+            "id": "paroxysmal cough",
+            "group": 1
+        },
+        {
+            "id": "conjunctiva symptom",
+            "group": 1
+        },
+        {
+            "id": "conjunctival congestion",
+            "group": 1
+        },
+        {
+            "id": "conjunctival degeneration",
+            "group": 1
+        },
+        {
+            "id": "conjunctival suffusion",
+            "group": 1
+        },
+        {
+            "id": "conjunctival swelling",
+            "group": 1
+        },
+        {
+            "id": "contracture",
+            "group": 1
+        },
+        {
+            "id": "hair symptom",
+            "group": 1
+        },
+        {
+            "id": "corkscrew hair",
+            "group": 1
+        },
+        {
+            "id": "corneal scarring",
+            "group": 1
+        },
+        {
+            "id": "dark urine",
+            "group": 1
+        },
+        {
+            "id": "hair shedding",
+            "group": 1
+        },
+        {
+            "id": "balance symptom",
+            "group": 1
+        },
+        {
+            "id": "feeding problem",
+            "group": 1
+        },
+        {
+            "id": "descending muscle paralysis",
+            "group": 1
+        },
+        {
+            "id": "skin peeling",
+            "group": 1
+        },
+        {
+            "id": "delayed psychomotor development",
+            "group": 1
+        },
+        {
+            "id": "decreased tearing",
+            "group": 1
+        },
+        {
+            "id": "decreased metabolism",
+            "group": 1
+        },
+        {
+            "id": "hand weakness",
+            "group": 1
+        },
+        {
+            "id": "mammary gland inflammation",
+            "group": 1
+        },
+        {
+            "id": "severe mammary gland inflammation",
+            "group": 1
+        },
+        {
+            "id": "pharynx inflammation",
+            "group": 1
+        },
+        {
+            "id": "cerebrovascular accident",
+            "group": 1
+        },
+        {
+            "id": "bronchiole inflammation",
+            "group": 1
+        },
+        {
+            "id": "severe bronchiole inflammation",
+            "group": 1
+        },
+        {
+            "id": "suppurative bronchiole inflammation",
+            "group": 1
+        },
+        {
+            "id": "low white blood cell count",
+            "group": 1
+        },
+        {
+            "id": "outlet dysfunction constipation",
+            "group": 1
+        },
+        {
+            "id": "soft tissue necrosis",
+            "group": 1
+        },
+        {
+            "id": "blood pressure",
+            "group": 1
+        },
+        {
+            "id": "high blood pressure",
+            "group": 1
+        },
+        {
+            "id": "part_of",
+            "group": 2
+        },
+        {
+            "id": "has_alternative_id",
+            "group": 2
+        },
+        {
+            "id": "database_cross_reference",
+            "group": 2
+        },
+        {
+            "id": "has_exact_synonym",
+            "group": 2
+        },
+        {
+            "id": "has_obo_format_version",
+            "group": 2
+        },
+        {
+            "id": "has_obo_namespace",
+            "group": 2
+        },
+        {
+            "id": "has_related_synonym",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "http://purl.obolibrary.org/obo/IAO_0000700",
+            "target": "http://purl.obolibrary.org/obo/SYMP_0000462",
+            "value": 1
+        }
+    ]
+}
